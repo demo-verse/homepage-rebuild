@@ -22,7 +22,7 @@ function Navbar({ button }) {
         <div className="logo">
           <Link to="/">
             
-            <img src="https://i.imgur.com/LXsfmxO.png">
+            <img src="https://i.imgur.com/LXsfmxO.png" alt="logo">
             </img>
           </Link>
         </div>
@@ -33,21 +33,20 @@ function Navbar({ button }) {
           onClick={() => setToggle(!toggle)}
         >
       
-      <li>
+      {/* <li>
             <Link to="/about">about</Link>
           </li>
+        */}
           {/* <li>
-            <Link to="/about">A new right</Link>
-          </li>
-          <li>
-            <Link to="/about">Principles</Link>
+          <a href="https://discord.gg/sqjdyCWNAR" target={"_blank"} rel="noreferrer">A New human right</a>
           </li> */}
-
           <li>
-            {/* <Link to="/contact">Community</Link> */}
-            <a href="https://discord.gg/sqjdyCWNAR" target={"_blank"}>Community</a>
-
-          </li>
+          <a href="https://i.imgur.com/lfzZwqd.png" target={"_blank"} rel="noreferrer">A flow of peace</a>
+          </li> 
+          <li>
+          <a href="https://docs.google.com/document/d/1sWWbXOJSf5UdsJr79uQChGEDaFI9cdI-5KSFCARqwoE/" target={"_blank"} rel="noreferrer">Short paper</a>
+          </li> 
+        
           <li>{button}</li>
         </ul>
       </nav>

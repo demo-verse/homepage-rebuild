@@ -13,10 +13,10 @@ const Services = forwardRef(({ button }, ref) => {
           and minded foundations of a decentralised diplomacy paradigm, backed by an equality and equity based, new human right {" "}
           <strong></strong> and its economy.
         </p>
-
+<br></br>
 		<p>
           Trust that, experiencing an observable, undeniable and
-          unstoppable, legitimate power on standing equal on peace and trust making <strong>is possible</strong>.{" "}
+          unstoppable, World Peace <strong>is possible with your actions </strong> through understanding, kindness and generosity..{" "}
         </p>
 		<br></br>
 

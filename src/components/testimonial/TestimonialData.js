@@ -1,13 +1,7 @@
-import brand1 from '../../images/bmw_96px.png';
-import brand2 from '../../images/kia_96px.png';
-import brand3 from '../../images/tesla_96px.png';
-import brand4 from '../../images/suzuki_96px.png';
-
-import Isaac from '../../images/testimonials/Isaac.png'
 import Aloysious from '../../images/testimonials/Aloysious.jpeg'
 import Bianca from '../../images/testimonials/Bianca.jpeg'
+import Isaac from '../../images/testimonials/Isaac.png'
 import Tolgay from '../../images/testimonials/Tolgay.png'
-
 
 
 export const clientImages = [

@@ -32,7 +32,9 @@ function Testimonial({ design, circles }) {
 			{design}
 			<div className="wrapper">
 				<div className="testimonial">
-					<h2>How does it feel, being equal on this matter?</h2>
+					{/* <h2>How does it feel, being equal on this matter?</h2> */}
+					<h2>How would you imagine and make a World Peace in the 21st century?</h2>
+
 					<div className="testimonial-content">
 						<div className="testimonial-design">
 							{circles}

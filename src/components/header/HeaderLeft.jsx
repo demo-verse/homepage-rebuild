@@ -1,27 +1,42 @@
-import { Button, Design } from "../../components";
+import { Design } from "../../components";
 
 function HeaderLeft({ servicesRef }) {
   return (
     <div className="left">
       <Design />
       <div className="left-content">
-        <h2>
-          It's time to seperate power and violence.
-        </h2>
+        <h2>It{"'"}s time to seperate power and violence.</h2>
         <p>
-          Let's start a World Peace, and better search power somewhere else: in the conscience
-          and wisdom of a great civilization: <strong>Humanity.</strong>
+          Let's start a World Peace, and search power somewhere else: in the
+          wisdom and conscience of a great civilization;{" "}
+          <strong>humanity, a unity of Generation Peace.</strong>
         </p>
 
-        {/* <p>
-          Trust that, experiencing an observable, undeniable and
-          unstoppable, legitimate power on standing equal on peace and trust making <strong>is possible</strong>.{" "}
-        </p> */}
-    
         <p>
-         We believe in humanity, and need humanity to believe in itself.{" "}
-         <strong>  World deserves the best & bests, in Peace. </strong>
+          Here, we are decentralising diplomacy, and augment that with a new
+          human right, and soon, a proactive electorship that potentially bring
+          future, to closer.{" "}
         </p>
+        <p>
+          <strong>Now is the new future.</strong>
+        </p>
+        <p>
+          We believe in humanity, and we sincerely want humanity to believe in
+          itself too.{" "}
+        </p>
+        <p>
+          The power, <strong>is you.</strong>
+        </p>
+
+        <div className="learn-more">
+          <a
+            href="https://docs.google.com/document/d/1sWWbXOJSf5UdsJr79uQChGEDaFI9cdI-5KSFCARqwoE/"
+            target={"_blank"}
+            rel="noreferrer"
+          >
+            Read the short paper
+          </a>
+        </div>
 
         {/* 
 				<p>
