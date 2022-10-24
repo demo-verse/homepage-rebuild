@@ -23,21 +23,21 @@ export const clientReviews = [
 	{
 		name: 'Aloysious',
 		designation: 'Queer, Polyamorous Autigender, Anti-=war veteran of color',
-		text: 'Was a really good experience to make peace together, and am feeling good that I was one of the first ones experienced this ',
+		text: 'I was testing Expressions of Peace for the @demoversal  project...  I am grateful for the connections I am making with value aligned individuals in these times.   I am grateful to have such meaningful projects to be working on.',
 	},
 	{
 		name: 'Isaac',
-		designation: 'Musician, thinker, ...',
-		text: 'Was a really good experience to make peace together, and am feeling good that I was one of the first ones experienced this ',
+		designation: 'Musician and more',
+		text: '..tba..',
 	},
 	{
 		name: 'Bianca',
-		designation: 'Working around psychology and crypto',
-		text: 'Was a really good experience to make peace together, and am feeling good that I was one of the first ones experienced this ',
+		designation: 'Working @ the intersection or  Psychology and web3',
+		text: '..tba..',
 	},
 	{
 		name: 'A. Tolgay',
-		designation: 'Making software and artist by heart',
-		text: 'Was a really good experience to make peace together, and am feeling good that I was one of the first ones experienced this ',
+		designation: 'Techie artist',
+		text: '..tba..',
 	},
 ];
