@@ -81,16 +81,16 @@ function App() {
       <Footer
         buttons={[
     
-          // <Button
-          //   text1="Bring your "
-          //   text2="perspective"
-          //   onClick={() => alert("You clicked button")}
-          // />,
-          // <Button
-          //   text1="Start a new "
-          //   text2="peace project"
-          //   onClick={() => alert("You clicked button")}
-          // />,
+          <Button
+            text1="Bring your "
+            text2="perspective"
+            onClick={() => alert("You clicked button")}
+          />,
+          <Button
+            text1="Start a new "
+            text2="peace project"
+            onClick={() => alert("You clicked button")}
+          />,
         ]}
       />
       <BackTop topRef={topRef} />
