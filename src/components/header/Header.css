@@ -72,6 +72,12 @@
 	overflow: hidden;
 }
 
+.header .right .intro-song {
+	margin-top: 100px;
+	margin-left: 2vw;
+	/* flex-direction: column; */
+}
+
 .header .right svg {
 	width: 50vw;
 	position: absolute;

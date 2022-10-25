@@ -1,5 +1,10 @@
 import { Design } from "../../components";
 
+// import * as React from 'react';
+// import DeleteIcon from '@mui/icons-material/Delete';
+// import IconButton from '@mui/material/IconButton';
+// import Tooltip from '@mui/material/Tooltip';
+
 function HeaderLeft({ servicesRef }) {
   return (
     <div className="left">
@@ -9,26 +14,30 @@ function HeaderLeft({ servicesRef }) {
         <p>
           Let's start a World Peace, and search power somewhere else: in the
           wisdom and conscience of a great civilization;{" "}
-          <strong>humanity, a unity of Generation Peace.</strong>
+          <strong>humanity.</strong>
         </p>
 
         <p>
-          Here, we are decentralising diplomacy, and augment that with a new
-          human right, and soon, a proactive electorship that potentially bring
-          future, to closer.{" "}
+          Here, we are introducing a new human right, and starting a progressive
+          decentralization and peace-orientation in diplomacy; along with a
+          proactive electorship paradigms for the 21st century.
         </p>
+
         <p>
-          <strong>Now is the new future.</strong>
+          Trust that, when experienced together, they are effectively bring
+          future, to closer.
         </p>
+
         <p>
           We believe in humanity, and we sincerely want humanity to believe in
-          itself too.{" "}
+          itself too. <br></br><br></br> A World Peace is already on the horizon in some decades, in its natural pace. 
+          <br></br>
+          However, we want to catalyze that. This is the sole purpose of our efforts. 
+          <br></br> <br></br> <strong>Now is the new future. And</strong> the power is,<strong> you.</strong>
         </p>
-        <p>
-          The power, <strong>is you.</strong>
-        </p>
+        <p></p>
 
-        <div className="learn-more">
+        {/* <div className="learn-more">
           <a
             href="https://docs.google.com/document/d/1sWWbXOJSf5UdsJr79uQChGEDaFI9cdI-5KSFCARqwoE/"
             target={"_blank"}
@@ -36,7 +45,7 @@ function HeaderLeft({ servicesRef }) {
           >
             Read the short paper
           </a>
-        </div>
+        </div> */}
 
         {/* 
 				<p>
@@ -54,7 +63,7 @@ function HeaderLeft({ servicesRef }) {
           className="scroll-down"
           onClick={() => servicesRef.current.scrollIntoView()}
         >
-          <span> {">"} check it out</span>
+          <span> {">"} let's go</span>
         </div>
       </div>
     </div>

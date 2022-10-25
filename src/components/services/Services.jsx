@@ -6,20 +6,25 @@ const Services = forwardRef(({ button }, ref) => {
 	return (
 		<div className="wrapper">
 			<div className="services" id="services" ref={ref}>
-				<h2>Equality and equity based peacemaking, on blockchain</h2>
+				<h2>Equality {"&"} equity based peace {"&"} trust making, on blockchain</h2>
 				<br></br>
 				<p>
-          Here we are highly motivated on imagining and laying the open sourced
-          and minded foundations of a decentralised diplomacy paradigm, backed by an equality and equity based, new human right {" "}
-          <strong></strong> and its economy.
+          Here we are highly motivated on starting the open sourced
+          and minded foundations of a decentralised diplomacy paradigm and its economy.{" "}
         </p>
 <br></br>
 		<p>
-          Trust that, experiencing an observable, undeniable and
-          unstoppable, World Peace <strong>is possible with your actions </strong> through understanding, kindness and generosity..{" "}
+          Experiencing an observable World Peace <strong>is possible with your actions </strong> through understanding, kindness and generosity in giving out that assurance to the rest, as sovereign, world residents.{" "}
         </p>
-		<br></br>
+		<br></br><br></br><br></br>
+		<h2>Circles of Peace for + Impact</h2>
+<p>
+Good news: as we use our right on being equal on peace and trust making, and express & acknowledge that for one another explicitly, we are somehow, already fulfilling UN Sustainable Development Goals 10, 16 and 17, before moving into the Circles for Impact.
+</p>
 
+<br></br>
+		<div className="signup">{button}</div>
+<br></br><br></br>
 				<div className="service-design">
 					<span className="dot"></span>
 					<span className="dot"></span>
@@ -40,7 +45,6 @@ const Services = forwardRef(({ button }, ref) => {
 						</div>
 					))}
 				</div>
-				<div className="signup">{button}</div>
 			</div>
 		</div>
 	);

@@ -24,14 +24,14 @@
 	border-radius: 50%;
 }
 
-.footer-top .social .social-icon {
+.footer-bottom .social .social-icon {
 	font-size: 20px;
-	margin: 0px 5px;
+	margin: 20px 5px;
 	color: rgb(var(--primary-color-1));
 	cursor: pointer;
 }
 
-.footer-top .social .social-icon:hover {
+.footer-bottom .social .social-icon:hover {
 	color: rgba(var(--primary-color-1), 0.8);
 }
 

@@ -35,27 +35,38 @@ function App() {
         />
         <Header servicesRef={servicesRef} ref={topRef} />
       </div>
-      <Services
-        ref={servicesRef}
-        button={
-          <Button
-            text1="Enter"
-            text2="Circles of Peace"
-            onClick={() => alert("You clicked button")}
-          />
-        }
-      />
-      <Testimonial
-        
-        circles={<Circles />}
-      />
+      <Testimonial circles={<Circles />} />
       <Become
         ref={becomeRef}
         buttons={[
-          <a href="https://discord.gg/sqjdyCWNAR" target={"_blank"} rel="noreferrer">Discord</a>
-          ,<a href="https://keybase.io/team/peacemakers" target={"_blank"} rel="noreferrer">Keybase</a>
-          ,<a href="https://app.orbis.club/group/kjzl6cwe1jw147jurloxh41cderszpog6t2bho8kwoa90jfvj9dk0z930oykndk" target={"_blank"} rel="noreferrer">Orbis.club</a>
-          ,<a href="https://matrix.to/#/#demoverse:matrix.org" target={"_blank"} rel="noreferrer">Matrix</a>
+          <a
+            href="https://discord.gg/sqjdyCWNAR"
+            target={"_blank"}
+            rel="noreferrer"
+          >
+            Discord
+          </a>,
+          <a
+            href="https://keybase.io/team/peacemakers"
+            target={"_blank"}
+            rel="noreferrer"
+          >
+            Keybase
+          </a>,
+          <a
+            href="https://app.orbis.club/group/kjzl6cwe1jw147jurloxh41cderszpog6t2bho8kwoa90jfvj9dk0z930oykndk"
+            target={"_blank"}
+            rel="noreferrer"
+          >
+            Orbis.club
+          </a>,
+          <a
+            href="https://matrix.to/#/#demoverse:matrix.org"
+            target={"_blank"}
+            rel="noreferrer"
+          >
+            Matrix
+          </a>,
         ]}
         design={
           <Design
@@ -78,9 +89,27 @@ function App() {
           />
         }
       />
+      <Services
+        ref={servicesRef}
+        button={
+          <a
+            href="https://github.com/demo-verse/circles-of-peace"
+            target={"_blank"}
+            rel="noreferrer"
+          >
+            We're about to launcgh something <br></br> social and impactful
+          </a>
+          
+          // <Button
+          //   text1="Enter"
+          //   text2="Circles of Peace"
+          //   onClick={() => alert("You clicked button")}
+          // />
+        }
+      />
+
       <Footer
         buttons={[
-    
           <Button
             text1="Bring your "
             text2="perspective"
@@ -93,6 +122,7 @@ function App() {
           />,
         ]}
       />
+
       <BackTop topRef={topRef} />
     </Router>
   );
