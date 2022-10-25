@@ -41,10 +41,10 @@ function Navbar({ button }) {
           <a href="https://discord.gg/sqjdyCWNAR" target={"_blank"} rel="noreferrer">A New human right</a>
           </li> */}
           <li>
-          <a href="https://miro.com/app/board/uXjVOX94E5k=/?share_link_id=267054985896" target={"_blank"} rel="noreferrer">A flow of peace</a>
+          <a href="https://docs.google.com/document/d/1sWWbXOJSf5UdsJr79uQChGEDaFI9cdI-5KSFCARqwoE/" target={"_blank"} rel="noreferrer">Short paper</a>
           </li> 
           <li>
-          <a href="https://docs.google.com/document/d/1sWWbXOJSf5UdsJr79uQChGEDaFI9cdI-5KSFCARqwoE/" target={"_blank"} rel="noreferrer">Short paper</a>
+          <a href="https://miro.com/app/board/uXjVOX94E5k=/?share_link_id=267054985896" target={"_blank"} rel="noreferrer">A flow of peace @ web3</a>
           </li> 
         
           <li>{button}</li>
