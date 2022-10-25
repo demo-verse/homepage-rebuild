@@ -19,7 +19,7 @@ function HeaderLeft({ servicesRef }) {
 
         <p>
           Here, we are introducing a new human right, and starting a progressive
-          decentralization and peace-orientation in diplomacy; along with a
+          decentralization and peace-orientation in diplomacy; along with
           proactive electorship paradigms for the 21st century.
         </p>
 
@@ -59,12 +59,12 @@ function HeaderLeft({ servicesRef }) {
             onClick={() => alert("You clicked button")}
           />
         </div> */}
-        <div
+        {/* <div
           className="scroll-down"
           onClick={() => servicesRef.current.scrollIntoView()}
         >
           <span> {">"} let's go</span>
-        </div>
+        </div> */}
       </div>
     </div>
   );
