@@ -68,13 +68,29 @@ const Services = forwardRef(({ button }, ref) => {
 		Those efforts will happen in virtual and physical environments, integrated with communication and collaboration tools, leveraging the existing capacity of education and workshops around those causes. 
 <br></br> <br></br>
 		  Circles for Impact are not meant to be goal or task oriented, and free, peaceful atmosphere be there, where we can keep being themselves and respect one another, and share responsibility and stakes, locally and remotely.
-       some of those to start with are: {" "}
+       Will start with: {" "}
 		  <a
             href="https://welo.space"
             target={"_blank"}
             rel="noreferrer"
           >
             welo.space
+          </a>{" "}
+		  <a
+            href="https://spatial.chat"
+            target={"_blank"}
+            rel="noreferrer"
+          >
+            spatial.chat
+          </a>{" "}
+
+		  and {" "}
+		  <a
+            href="https://gather.town"
+            target={"_blank"}
+            rel="noreferrer"
+          >
+            gather.town
           </a>{" "}
 	    </p>
 
