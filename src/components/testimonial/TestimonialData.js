@@ -1,5 +1,4 @@
 import Aloysious from '../../images/testimonials/Aloysious.jpeg'
-import Bianca from '../../images/testimonials/Bianca.jpeg'
 import Isaac from '../../images/testimonials/Isaac.png'
 import Tolgay from '../../images/testimonials/Tolgay.png'
 
@@ -11,9 +10,7 @@ export const clientImages = [
 	{
 		brand: Aloysious,
 	},
-	{
-		brand: Bianca,
-	},
+
 	{
 		brand: Tolgay,
 	}
@@ -30,11 +27,7 @@ export const clientReviews = [
 		designation: 'Musician and more',
 		text: '..tba..',
 	},
-	{
-		name: 'Bianca',
-		designation: 'Working @ the intersection or  Psychology and web3',
-		text: '..tba..',
-	},
+
 	{
 		name: 'A. Tolgay',
 		designation: 'Techie artist',
