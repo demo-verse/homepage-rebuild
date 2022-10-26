@@ -47,7 +47,7 @@ function Testimonial({ design, circles, buttons }) {
             <br></br>
             However, citizens, the majority impacted by conflicts, have no
             direct impact, significant labor, hence any observable legitimacy in
-            the making and sustaining a world peace.
+            the making and sustaining a World Peace that's assured via its greatest level of participation and experience.
           </p>
           <div className="testimonial-content">
             <div className="testimonial-design">

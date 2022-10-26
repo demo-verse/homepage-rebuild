@@ -49,9 +49,9 @@
 }
 .become .become-content .become-text-right   p {
 	font-size: 16px;
-	color: orange;
-	background: black;
-	border-radius: 12%;
+	/* color: orange; */
+	/* background: black; */
+	/* border-radius: 12%; */
 	padding: 6px;
 	/* color: rgb(var(--text-color-2)); */
 	margin-bottom: 20px;

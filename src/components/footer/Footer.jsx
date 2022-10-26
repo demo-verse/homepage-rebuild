@@ -21,15 +21,14 @@ function footer({ buttons }) {
           <div className="copyright">
             <p>
               
-                Nothing to copyright. We will help you to start a better World
-                Peace project if you needed empowerment. Money can only catalyse
-                peace. You are the power, who can make it real; peace can be
-                easy, just like this.
+                Nothing to copyright. We will help you to start a World
+                Peace project if you needed empowerment. 
+                <br></br>Money can only catalyse
+                peace. You are the power, who can make it real, just like this.
               </p>
               <br></br>
               <p>
-              Any acknowledgement through experiencing of this new human right
-              to stand equal on peace {"&"} trust making, is somewhat a
+              Experiencing of this new human right to stand equal on peace {"&"} trust making, is somewhat a
               satisfactory gain for this project and its starters.
             </p>
             <br></br>

@@ -35,7 +35,6 @@ function App() {
         />
         <Header servicesRef={servicesRef} ref={topRef} />
       </div>
-      <Testimonial circles={<Circles />} />
       <Become
         ref={becomeRef}
         buttons={[
@@ -89,6 +88,8 @@ function App() {
           />
         }
       />
+      <Testimonial circles={<Circles />} />
+
       <Services
         ref={servicesRef}
         button={
@@ -97,9 +98,11 @@ function App() {
             target={"_blank"}
             rel="noreferrer"
           >
-            We're about to launcgh something <br></br> social and impactful
+            We are about to scale +impact, with Inner and Sustainable
+            Development Goals focus. <br></br>
+            (click to see the details @ github)
           </a>
-          
+
           // <Button
           //   text1="Enter"
           //   text2="Circles of Peace"

@@ -8,17 +8,6 @@ function HeaderRight() {
     <div className="right">
       <div className="wrapper">
         <div className="intro-song">
-          {/* Que Sera - Wax Tailor */}
-          {/* <iframe
-        width="60%"
-        height="420"
-        src="https://www.youtube.com/embed/7I18_VNjX3g"
-        title="YouTube video player"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen
-      ></iframe> */}
-
           <iframe
             width="94%"
             height="420"
@@ -29,6 +18,8 @@ function HeaderRight() {
             allowFullScreen
           ></iframe>
         </div>
+		
+	
       </div>
       {/* <div className="our-right-poster">
 
