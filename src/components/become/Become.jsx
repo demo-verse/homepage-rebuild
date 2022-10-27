@@ -18,7 +18,7 @@ const Become = forwardRef(({ buttons, design, circles }, ref) => {
                 "Everyone is free to be proactive, claim their equality and free
                 will to act on peace and trust making; and be legitimate
                 co-signer and sealer of a World Peace treaty, regardless of
-                their entitlement, being official or not".
+                their entitlement, being official or not."
               </p>
               <br></br>
               <p>
@@ -28,7 +28,7 @@ const Become = forwardRef(({ buttons, design, circles }, ref) => {
               <div className="become-text-right">
                 <div className="community-links">
                   <p>
-                    Hey there, peacemaker! <br></br> start, a world peace ~ express yourself!
+                  <strong>  Hey there, peacemaker! <br></br> start, a World Peace ~ express yourself!</strong>
                     <br></br><br></br>Feel welcomed {"&"} invited to bring your perspective and empowered being, 
                     <br></br>to, initially those co-existing communities of your choice:
                      :{" "}
@@ -42,9 +42,9 @@ const Become = forwardRef(({ buttons, design, circles }, ref) => {
                 <div>
                   <p>
                     So far, this project been developed in a design-thinking
-                    process, and we've welcomed and discovered new perspectives
+                    process, and we've discovered new perspectives
                     and imagined better; as we were building a proof of concept,
-                    a peacemaker app on a blockchain test network:{" "}
+                    a peacemaker App on a blockchain test network:{" "}
                     <a
                       href="https://expressionsofpeace.org"
                       target={"_blank"}

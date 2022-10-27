@@ -14,7 +14,7 @@ function HeaderLeft({ servicesRef }) {
           Progressive decentralization of diplomacy, towards a World Peace
         </h2>
         <p>
-          Let's start a World Peace, and search power somewhere else: in the
+          Let's start a World Peace, and search power somewhere new: in the
           wisdom and conscience of a great civilization;{" "}
           <strong>humanity.</strong>
         </p>

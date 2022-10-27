@@ -28,7 +28,11 @@ const Services = forwardRef(({ button }, ref) => {
             resources. And we'd like transparency, resilience and especially
             undeniability on the making of a World Peace, through equality and
             equity; more specifically, having responsibility and stakes in the
-            remotes, as well as locally.
+            remotes, as well as locally in an unstoppable fashion.
+            <br></br>
+            <br></br> That{"'"}s why, blockchain is at the core of our solution
+            design. Yet, this whole thing could be done with pencils and papers
+            as well.
             {/* then all that impact
             generating projects and efforts, that are appreciated well and build
             a new economy of peace. */}
@@ -137,8 +141,9 @@ const Services = forwardRef(({ button }, ref) => {
           <br></br> <br></br>
           <h2>Good news, peacemaker!</h2>
           <br></br>
-          if you are at this stage, then not only these Sustainable Development
-          Goals, but also practice pretty much all skills and qualities of{" "}
+          if you are at this stage, then you have not only experienced these
+          Sustainable Development Goals, but also practice pretty much all
+          skills and qualities of{" "}
           <a
             href="https://www.innerdevelopmentgoals.org/framework"
             target={"_blank"}
@@ -149,11 +154,14 @@ const Services = forwardRef(({ button }, ref) => {
           to some extent, if you made the right choice and kept yourself
           non-violent along the way
           <br></br> <br></br>
-          Yes, peace should be this easy, in the 21st century, through a
-          proactive, individual and collective process of wise and aware
-          actions, that are based on equality and equity. In fact, it is a
-          low-hanging fruit, all you need is to take it, and share with
-          generosity.
+          Yes, <strong>peace should be this easy</strong>, in the 21st century,
+          through a proactive, individual and collective process of wise and
+          aware actions, that are based on equality and equity.
+          <br></br> <br></br>
+          <i>
+            In fact, it is a low-hanging fruit, all you need is to take it, and
+            share with generosity.
+          </i>
           <br></br>
           <br></br>
           +Impact projects in all SDGs and new ones we{"'"}d bring in together
@@ -171,7 +179,7 @@ const Services = forwardRef(({ button }, ref) => {
         </p>
         <br></br>
         <p>
-          Just in case, we're also{" "}
+          <strong>Just in case</strong> , we're also{" "}
           <a
             href="https://github.com/demo-verse/peace-game"
             target={"_blank"}
@@ -191,35 +199,45 @@ const Services = forwardRef(({ button }, ref) => {
           Ongoing efforts be kept open sourced and be concurrently developed
           with Circles of Peace for +Impact, in 2022 and 2023{" "}
         </p>
-       
         <br></br>
         <p>
           All we need is to bring ourselves as peaceful we are, respect one
           another, and share responsibility and stakes, locally and remotely,
           with resolutions following, via peaceful, intentional actions ...{" "}
           {"&"}
-          sustain that indefinitely, for a mutual assured regeneration.
+          sustain that indefinitely, for{" "}
+          <strong>a mutual assured regeneration</strong>.
         </p>
-
         <p>
           <br></br>
-          Well, we'd like to be persistent about taking intentions over
-          impressions along the way..
+          Well, we'd like to be persistent about taking{" "}
+          <strong>intentions over impressions</strong> along the way.. <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <h2>~ Let{"'"}s gooooO! ~</h2>
+          <br></br>
+          <i>
+            This whole thing, is all about boosting and observable, resilient
+            evolution of a self-legitimising flow, of peace.
+          </i>
         </p>
-<br></br>
-         
-				<p>
-					<strong>Calling everyone to live and leave a priceless legacy; namingly, a World Peace through Equality and Equity</strong> .
-				</p>
-
-        <br>
-        </br>
+        <br></br>
         <p>
-        World deserves the best, and we want the best for the world.
-        <br></br>        <br></br>
+          <strong>
+            For all that, calling everyone to live and leave a priceless legacy;
+            namingly, a World Peace through Equality and Equity
+          </strong>
+          .
+        </p>
+        <br></br>
+        <p>
+          World deserves the best, and we want the best for the world.
+          <br></br> <br></br>
           <strong>& bests, in peace</strong>
         </p>
-
+        <br></br>
+        <br></br>
         <br></br>
       </div>
     </div>
