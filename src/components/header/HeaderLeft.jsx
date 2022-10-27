@@ -32,6 +32,23 @@ function HeaderLeft({ servicesRef }) {
           <br></br>
           It{"'"}s time to seperate power and violence so well,{" "}
           <strong>with our Art of Peace.</strong>
+          <br></br>
+          <br></br>
+          <hr style={{ width: "50%" }}></hr>
+          <i>
+            You can also just listen to this whole page, <br></br> recorded with
+            text2speech @ 27.10.2022
+          </i>
+          <hr style={{ width: "50%" }}></hr>
+          <br></br> 
+          <iframe
+            width="62%"
+            height="80"
+            scrolling="no"
+            frameborder="no"
+            allow="autoplay"
+            src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1371059119&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+          ></iframe>
         </p>
 
         {/* <div className="learn-more">
