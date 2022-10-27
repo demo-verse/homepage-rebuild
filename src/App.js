@@ -35,6 +35,10 @@ function App() {
         />
         <Header servicesRef={servicesRef} ref={topRef} />
       </div>
+
+      <Testimonial circles={<Circles />} />
+
+
       <Become
         ref={becomeRef}
         buttons={[
@@ -88,7 +92,8 @@ function App() {
           />
         }
       />
-      <Testimonial circles={<Circles />} />
+
+
 
       <Services
         ref={servicesRef}
