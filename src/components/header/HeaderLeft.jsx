@@ -27,15 +27,12 @@ function HeaderLeft({ servicesRef }) {
 
         <p>
           This project is our restoration, one that is peaceful and movemental.
-          Now is the new future, and <strong> we are the power</strong> It{"'"}s
-          time to seperate power and violence.
+          Now is the new future, and <strong> we are the power</strong>
+          <br></br>
+          <br></br>
+          It{"'"}s time to seperate power and violence so well,{" "}
+          <strong>with our Art of Peace.</strong>
         </p>
-       
-
-       
-
-
-       
 
         {/* <div className="learn-more">
           <Button
