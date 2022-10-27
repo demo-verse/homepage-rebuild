@@ -8,7 +8,7 @@ https://mxilq-uiaaa-aaaad-qeega-cai.ic.fleek.co/
 |> soon will point to https://demoVer.se 
 
 
-![](https://i.imgur.com/ZCiG30g.png)
+![](https://i.imgur.com/AwzzCtc.png)
 
 ![](https://i.imgur.com/XTubJy7.png)
 

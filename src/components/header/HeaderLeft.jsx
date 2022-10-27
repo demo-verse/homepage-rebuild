@@ -42,6 +42,7 @@ function HeaderLeft({ servicesRef }) {
           <hr style={{ width: "50%" }}></hr>
           <br></br> 
           <iframe
+          title="readAloud text2speech"
             width="62%"
             height="80"
             scrolling="no"
