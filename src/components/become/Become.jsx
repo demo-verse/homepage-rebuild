@@ -44,10 +44,27 @@ const Become = forwardRef(({ buttons, design, circles }, ref) => {
                 <br></br> <br></br>
                 <br></br>
                 <br></br>
-                <h2>Why blockchain, for a World Peace?</h2>
+                <h2>
+                  What is blockchain, and why it is a good fit for a potential
+                  World Peace?
+                </h2>
                 <div>
                   <p>
-                    So far, this project been developed in a design-thinking
+                    <strong>As Generation Peace, </strong>
+                    the multi-generation of this era, the stage is ours now.
+                    <br></br>
+                    <br></br> All we need is to accumulate common sense, will
+                    and intentions, and make them observable, via persisting
+                    them transparently and resiliently.
+                    <br></br>
+                    <br></br>
+
+                    We've so far focused using the context-aware capacity of
+                    this decentralised ledger technology.
+                    <br></br>
+                    <br></br>
+
+                    This project, demoVerse, since late January 2022, have been developed in a design-thinking
                     process, and we've discovered new perspectives and imagined
                     better; as we were building a proof of concept, a peacemaker
                     App on a blockchain test network:{" "}
@@ -60,20 +77,39 @@ const Become = forwardRef(({ buttons, design, circles }, ref) => {
                     </a>
                   </p>
                   <p>
-                    <strong>As Generation Peace, </strong>
-                    the multi-generation of this era, the stage is ours now.
-                    <br></br>All we need is to accumulate common sense, will and
-                    intentions, and make them observable, via persisting them
-                    transparently and resiliently.
+                    Wait, but what is blockchain ? Let{"'"}s get{" "}
+                    <a
+                      href="https://youtu.be/lBhZR4Vf6jg?t=475"
+                      target={"_blank"}
+                      rel="noreferrer"
+                    >
+                      a well explained intro,{" "}
+                    </a>{" "}
+                    from Juan Benet, the creator of IPFS and Filecoin.
+                    <br></br>                    <br></br>
+
+                    <iframe
+                      width="560"
+                      height="315"
+                      src="https://www.youtube.com/embed/lBhZR4Vf6jg?start=475"
+                      title="YouTube video player"
+                      frameborder="0"
+                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                      allowFullScreen
+                    ></iframe>
                   </p>
                   <p>
-                    We've so far focused using the context-aware capacity of
-                    this decentralised ledger technology.
-                    <br></br>
-                    <br></br>
-                    In the proof of concept, peacemaker, app, accessible on
-                    expressionsofpeace.org.
-                    <br></br>@ our{" "}
+                   
+                    In the proof of concept, peacemaker, the decentralized app
+                    accessible on
+                    <a
+                      href="https://www.youtube.com/channel/UCqtm34_hfBCSnFr03KgqUSg"
+                      target={"_blank"}
+                      rel="noreferrer"
+                    >
+                      expressionsofpeace.org
+                    </a>{" "}
+                    and in the{" "}
                     <a
                       href="https://www.youtube.com/channel/UCqtm34_hfBCSnFr03KgqUSg"
                       target={"_blank"}
@@ -81,7 +117,7 @@ const Become = forwardRef(({ buttons, design, circles }, ref) => {
                     >
                       Youtube channel
                     </a>{" "}
-                    , you can see the making of{" "}
+                    , you can see the demo videos, introducing the making of{" "}
                     <a
                       href="https://www.youtube.com/watch?v=SaqKac-3ncM"
                       target={"_blank"}
@@ -97,10 +133,22 @@ const Become = forwardRef(({ buttons, design, circles }, ref) => {
                     >
                       Acknowledgements
                     </a>{" "}
-                    of Peace in action.
+                    of Peace in action. We are moving towards using the Orbis
+                    Protocol for that, soon, and those interactions are now
+                    nothing but (re)interpretation of a regular social media
+                    actions.
                     <br></br>
                     <br></br>
-                    Also have a look and read their{" "}
+                    Beware that, all of these interactions will be public on
+                    Ceramic Network that's what Orbis Protocol is using under
+                    the hood. Our platform has nothing to do with your data, it
+                    is going to be all public. We believe transparency will play
+                    a crucial role on this. However, we have chance to make
+                    parts encrypted and only decrypted and made publicly
+                    available upon your request.
+                    <br></br>
+                    <br></br>
+                    Also have a look and read the proof of concept {"'s "}
                     <a
                       href="https://github.com/demo-verse/expressions-of-peace/tree/main/contracts"
                       target={"_blank"}
@@ -131,19 +179,21 @@ const Become = forwardRef(({ buttons, design, circles }, ref) => {
                     <strong>That{"'"}s why,</strong> blockchain, and in a
                     broader sense, web3, has been the first tool we're using for
                     this purpose: to experience and share rights, along with
-                    resources. 
+                    resources.
                     <br></br> <br></br>
                     We humbly want to start something we call, Peace Economy and
                     its incentives without asking for permission. We got that
                     permission already, by the living and the future generations
                     and their generosity.
                   </p>
-                  <p>Here, it is more about being, rather
-                    than having.
-                    
-                    <br></br><br></br>
-                    Trust that, a World Peace, initiated by citizens, is not a matter of legitimacy, but matter of time, in its observation and accomplishment. 
-                    </p>
+                  <p>
+                    Here, it is more about being, rather than having.
+                    <br></br>
+                    <br></br>
+                    Trust that, a World Peace, initiated by citizens, is not a
+                    matter of legitimacy, but matter of time, in its observation
+                    and accomplishment.
+                  </p>
                 </div>
               </div>
               {/* <img src={aNewRight} alt="mobile" /> */}
