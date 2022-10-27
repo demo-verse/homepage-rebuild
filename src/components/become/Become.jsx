@@ -35,7 +35,7 @@ const Become = forwardRef(({ buttons, design, circles }, ref) => {
                     </strong>
                     <br></br>
                     <br></br>Feel welcomed {"&"} invited to bring your
-                    perspective and empowered being,
+                    perspective, empowered and empowering being,
                     <br></br>to, initially those co-existing communities of your
                     choice: :{" "}
                   </p>
