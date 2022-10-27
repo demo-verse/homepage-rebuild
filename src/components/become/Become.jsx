@@ -58,16 +58,37 @@ const Become = forwardRef(({ buttons, design, circles }, ref) => {
                     them transparently and resiliently.
                     <br></br>
                     <br></br>
-
+                    <p>
+                      Let{"'"}s get{" "}
+                      <a
+                        href="https://youtu.be/lBhZR4Vf6jg?t=475"
+                        target={"_blank"}
+                        rel="noreferrer"
+                      >
+                        a well explained intro what this blockchain, a
+                        distributed ledger is all about,{" "}
+                      </a>{" "}
+                      from Juan Benet, the creator of IPFS and Filecoin.
+                      <br></br> <br></br>
+                      <iframe
+                        width="560"
+                        height="315"
+                        src="https://www.youtube.com/embed/lBhZR4Vf6jg?start=475"
+                        title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowFullScreen
+                      ></iframe>
+                    </p>
                     We've so far focused using the context-aware capacity of
                     this decentralised ledger technology.
                     <br></br>
                     <br></br>
-
-                    This project, demoVerse, since late January 2022, have been developed in a design-thinking
-                    process, and we've discovered new perspectives and imagined
-                    better; as we were building a proof of concept, a peacemaker
-                    App on a blockchain test network:{" "}
+                    This project, demoVerse, since late January 2022, have been
+                    developed in a design-thinking process, and we've discovered
+                    new perspectives and imagined better; as we were building a
+                    proof of concept, a peacemaker App on a blockchain test
+                    network:{" "}
                     <a
                       href="https://expressionsofpeace.org"
                       target={"_blank"}
@@ -76,30 +97,8 @@ const Become = forwardRef(({ buttons, design, circles }, ref) => {
                       Expressions of Peace.{" "}
                     </a>
                   </p>
-                  <p>
-                    Wait, but what is blockchain ? Let{"'"}s get{" "}
-                    <a
-                      href="https://youtu.be/lBhZR4Vf6jg?t=475"
-                      target={"_blank"}
-                      rel="noreferrer"
-                    >
-                      a well explained intro,{" "}
-                    </a>{" "}
-                    from Juan Benet, the creator of IPFS and Filecoin.
-                    <br></br>                    <br></br>
 
-                    <iframe
-                      width="560"
-                      height="315"
-                      src="https://www.youtube.com/embed/lBhZR4Vf6jg?start=475"
-                      title="YouTube video player"
-                      frameborder="0"
-                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                      allowFullScreen
-                    ></iframe>
-                  </p>
                   <p>
-                   
                     In the proof of concept, peacemaker, the decentralized app
                     accessible on
                     <a
@@ -133,19 +132,57 @@ const Become = forwardRef(({ buttons, design, circles }, ref) => {
                     >
                       Acknowledgements
                     </a>{" "}
-                    of Peace in action. We are moving towards using the Orbis
-                    Protocol for that, soon, and those interactions are now
-                    nothing but (re)interpretation of a regular social media
-                    actions.
+                    of Peace in action.
                     <br></br>
                     <br></br>
-                    Beware that, all of these interactions will be public on
-                    Ceramic Network that's what Orbis Protocol is using under
-                    the hood. Our platform has nothing to do with your data, it
-                    is going to be all public. We believe transparency will play
-                    a crucial role on this. However, we have chance to make
-                    parts encrypted and only decrypted and made publicly
-                    available upon your request.
+                    As of the Flow of Peace V2, We are moving towards using the{" "}
+                    <a
+                      href="https://orbis.club"
+                      target={"_blank"}
+                      rel="noreferrer"
+                    >
+                      Orbis Protocol
+                    </a>{" "}
+                    and (re)interpret basic social media actions eg. post, like
+                    and comment, in our context, a decentralized diplomacy.
+                    <br></br>
+                    <br></br>
+                    Beware that, all of these social web3 interactions will be
+                    public on{" "}
+                    <a
+                      href="https://orbis.club"
+                      target={"_blank"}
+                      rel="noreferrer"
+                    >
+                      Ceramic Network
+                    </a>{" "}
+                    that's what Orbis Protocol is using under the hood. Our
+                    platform has nothing to do with your data, it is planned to
+                    be made publicly observable, through Ceramic's cerscan as
+                    well, where the records of the changes to our data stream
+                    made discoverable.
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <img
+                      src="https://i.imgur.com/YS3WI5e.png"
+                      width={"60%"}
+                    ></img>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <a
+                      href="https://cerscan.com/mainnet/stream/kjzl6cwe1jw1477ua0tg3h4rn1fzesmkmnzp4dpv40j0zlz25of23d6qhv0pj8y"
+                      target={"_blank"}
+                      rel="noreferrer"
+                    >
+                      Here,
+                    </a>{" "}
+                    for example, in the body part of the content section, you
+                    would see how your post/expression would become public. It
+                    will not be kept on a private server. It is open to
+                    everyone, and people that made those expressions, can always
+                    change and delete as well.
                     <br></br>
                     <br></br>
                     Also have a look and read the proof of concept {"'s "}
@@ -186,14 +223,7 @@ const Become = forwardRef(({ buttons, design, circles }, ref) => {
                     permission already, by the living and the future generations
                     and their generosity.
                   </p>
-                  <p>
-                    Here, it is more about being, rather than having.
-                    <br></br>
-                    <br></br>
-                    Trust that, a World Peace, initiated by citizens, is not a
-                    matter of legitimacy, but matter of time, in its observation
-                    and accomplishment.
-                  </p>
+               
                 </div>
               </div>
               {/* <img src={aNewRight} alt="mobile" /> */}

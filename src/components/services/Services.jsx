@@ -16,6 +16,18 @@ const Services = forwardRef(({ button }, ref) => {
           kindness and generosity in giving out an assurance to the rest, in a
           borderless and direct fashion, as sovereign, world residents.{" "}
         </p>
+<br></br>
+        <p>
+                    Peacemaking is an experience, that is priceless; more about
+                    being, than having. Here, we'll be sharing rights, along
+                    with resources. It's even easier; let's get used to that,
+                    the sooner the better.
+                    <br></br>
+                    <br></br>
+                    Trust that, a World Peace, initiated by citizens, is not a
+                    matter of legitimacy, but matter of time, in its observation
+                    and accomplishment.
+                  </p>
         <br></br>
         {/* <p>
           Here we are highly motivated on starting the open sourced and minded
@@ -24,8 +36,7 @@ const Services = forwardRef(({ button }, ref) => {
         <br></br>
         <p>
           <p>
-            @ demoVerse, we are experiencing the sharing of rights, along with
-            resources. And we'd like transparency, resilience and especially
+            @ demoVerse, we'd like transparency, resilience and especially
             undeniability on the making of a World Peace, through equality and
             equity; more specifically, having responsibility and stakes in the
             remotes, as well as locally in an unstoppable fashion.
