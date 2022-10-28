@@ -2,51 +2,20 @@ import "./Become.css";
 // import aNewRight from "../../images/our_right_to_make_peace_and_trust.png";
 import { forwardRef } from "react";
 
-const Become = forwardRef(({ buttons, design, circles }, ref) => {
+const Become = forwardRef(({ design, circles, circlesOfPeaceButton }, ref) => {
   return (
     <div className="become-bg">
       {design}
       <div className="wrapper">
         <div className="become" id="become" ref={ref}>
-          <h2>
-            A new human right has born: <br></br>It{"'"}s all about standing
-            equal on peace {"&"} trust making
-          </h2>
           <div className="become-content">
             <div className="become-text-left">
-              <p>
-                "Everyone is free to be proactive, claim their equality and free
-                will to act on peace and trust making; and be legitimate
-                co-signer and sealer of a World Peace treaty, regardless of
-                their entitlement, being official or not."
-              </p>
-              <br></br>
-              <p>
-                This human right, concept, perspective and notion shall be a
-                canvas; on which our kind making Art of Peace, together.
-              </p>
               <div className="become-text-right">
-                <div className="community-links">
-                  <p>
-                    <strong>
-                      {" "}
-                      Hey there, peacemaker! <br></br> start, a World Peace ~
-                      express yourself!
-                    </strong>
-                    <br></br>
-                    <br></br>Feel welcomed {"&"} invited to bring your
-                    perspective, empowered and empowering being,
-                    <br></br>to, initially those co-existing communities of your
-                    choice: :{" "}
-                  </p>
-                  @ {buttons[0]} @ {buttons[1]} @ {buttons[2]} @ {buttons[3]}
-                </div>
-                <br></br> <br></br>
-                <br></br>
-                <br></br>
+                <div className="community-links"></div>
+
                 <h2>
-                  What is blockchain, and why it is a good fit for a potential
-                  World Peace?
+                  What is blockchain, how and why it is @ <br></br> the core of
+                  a World Peace solution proposal?
                 </h2>
                 <div>
                   <p>
@@ -65,10 +34,11 @@ const Become = forwardRef(({ buttons, design, circles }, ref) => {
                         target={"_blank"}
                         rel="noreferrer"
                       >
-                        a well explained intro what this blockchain, a
-                        distributed ledger is all about,{" "}
+                        a well explained intro{" "}
                       </a>{" "}
-                      from Juan Benet, the creator of IPFS and Filecoin.
+                      on what this blockchain and a distributed ledger for
+                      consensus is all about, from Juan Benet, the creator of
+                      IPFS and Filecoin.
                       <br></br> <br></br>
                       <iframe
                         width="560"
@@ -99,24 +69,15 @@ const Become = forwardRef(({ buttons, design, circles }, ref) => {
                   </p>
 
                   <p>
-                    In the proof of concept, peacemaker, the decentralized app
-                    accessible on
+                    @
                     <a
                       href="https://www.youtube.com/channel/UCqtm34_hfBCSnFr03KgqUSg"
                       target={"_blank"}
                       rel="noreferrer"
                     >
-                      expressionsofpeace.org
+                      Youtube channel,
                     </a>{" "}
-                    and in the{" "}
-                    <a
-                      href="https://www.youtube.com/channel/UCqtm34_hfBCSnFr03KgqUSg"
-                      target={"_blank"}
-                      rel="noreferrer"
-                    >
-                      Youtube channel
-                    </a>{" "}
-                    , you can see the demo videos, introducing the making of{" "}
+                    you can see the demo videos, introducing the making of{" "}
                     <a
                       href="https://www.youtube.com/watch?v=SaqKac-3ncM"
                       target={"_blank"}
@@ -161,14 +122,6 @@ const Become = forwardRef(({ buttons, design, circles }, ref) => {
                     be made publicly observable, through Ceramic's cerscan as
                     well, where the records of the changes to our data stream
                     made discoverable.
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <img
-                      src="https://i.imgur.com/YS3WI5e.png"
-                      width={"60%"}
-                    ></img>
-                    <br></br>
                     <br></br>
                     <br></br>
                     <a
@@ -223,7 +176,31 @@ const Become = forwardRef(({ buttons, design, circles }, ref) => {
                     permission already, by the living and the future generations
                     and their generosity.
                   </p>
-               
+
+                  <h2>~ Let{"'"}s gooooO! ~</h2>
+                  <br></br>
+
+                  <div className="circlesOfPeaceButton">{circlesOfPeaceButton}</div>
+
+                  <i>
+                    This whole thing, is all about boosting and observable,
+                    resilient evolution of a self-legitimising flow, of peace.
+                  </i>
+
+                  <p>
+                    <strong>
+                      For all that, calling everyone to live and leave a
+                      priceless legacy; namingly, a World Peace through Equality
+                      and Equity
+                    </strong>
+                    .
+                  </p>
+                  <br></br>
+                  <p>
+                    World deserves the best, and we want the best for the world.
+                    <br></br> <br></br>
+                    <strong>& bests, in peace</strong>
+                  </p>
                 </div>
               </div>
               {/* <img src={aNewRight} alt="mobile" /> */}

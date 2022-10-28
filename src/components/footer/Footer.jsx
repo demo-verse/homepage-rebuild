@@ -40,7 +40,7 @@ function footer({ buttons }) {
             <br></br>
             <p>
               What we will experience; a World Peace by Equality and Equity, in
-              the 21st century, is priceless legacy, to live and leave.
+              the 21st century, is a priceless legacy, to live and leave.
               <br></br>
               There is no question or hesitation on that, nor will be.
               <br></br> <br></br>

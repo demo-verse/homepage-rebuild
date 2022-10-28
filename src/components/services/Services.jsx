@@ -1,11 +1,43 @@
 import "./Services.css";
 import { forwardRef } from "react";
-import { services } from "./ServicesData";
+import Button from "../button/Button";
 
-const Services = forwardRef(({ button }, ref) => {
+const Services = forwardRef(({ button, buttons }, ref) => {
   return (
     <div className="wrapper">
       <div className="services" id="services" ref={ref}>
+        <h2>
+          A new human right has born: <br></br>It{"'"}s all about standing equal
+          on peace {"&"} trust making
+        </h2>
+        <p>
+          "Everyone is free to be proactive, claim their equality and free will
+          to act on peace and trust making; and be legitimate co-signer and
+          sealer of a World Peace treaty, regardless of their entitlement, being
+          official or not."
+        </p>
+        <br></br>
+        <p>
+          This human right, concept, perspective and notion shall be a canvas;
+          on which our kind making Art of Peace, together.
+        </p>
+        <p>
+          <br></br>
+          <strong>
+            {" "}
+            Hey there, peacemaker! Start, a World Peace ~ express yourself!
+          </strong>
+          <br></br>
+          <br></br>
+          Feel welcomed {"&"} invited to bring your perspective, empowered and
+          empowering being, to, initially those co-existing communities of your
+          choice: :{" "}
+        </p>
+        <br></br>
+        <br></br>@ {buttons[0]} @ {buttons[1]} @ {buttons[2]} @ {buttons[3]}
+        <br></br>
+        <br></br> <br></br>
+        <br></br>
         <h2>
           Equality {"&"} equity based peace {"&"} trust making, on blockchain
         </h2>
@@ -16,18 +48,17 @@ const Services = forwardRef(({ button }, ref) => {
           kindness and generosity in giving out an assurance to the rest, in a
           borderless and direct fashion, as sovereign, world residents.{" "}
         </p>
-<br></br>
+        <br></br>
         <p>
-                    Peacemaking is an experience, that is priceless; more about
-                    being, than having. Here, we'll be sharing rights, along
-                    with resources. It's even easier; let's get used to that,
-                    the sooner the better.
-                    <br></br>
-                    <br></br>
-                    Trust that, a World Peace, initiated by citizens, is not a
-                    matter of legitimacy, but matter of time, in its observation
-                    and accomplishment.
-                  </p>
+          Peacemaking is an experience, that is priceless; it is more about
+          being, than having. Here, we'll be sharing rights, along with
+          resources. It's even easier; let's get used to that, the sooner the
+          better.
+          <br></br>
+          <br></br>
+          Trust that, a World Peace, initiated by citizens, is not a matter of
+          legitimacy, but matter of time, in its observation and accomplishment.
+        </p>
         <br></br>
         {/* <p>
           Here we are highly motivated on starting the open sourced and minded
@@ -55,17 +86,63 @@ const Services = forwardRef(({ button }, ref) => {
           Peace, as a start: <br></br>Introducing Circles of Peace for + Impact
         </h2>
         <p>
-          As we use our right on being equal on peace and trust making, as
-          sovereign world residents on this context, and assure that for one
-          another especially, via expressions and acknowledgements, we are
-          already taking the first step with the least action required to enter
-          a UN focused working group-like environment, that is what we are
-          calling Circles for Impact.
+          In a web3 social platform, Circles of Peace, as we use our right on
+          being equal on peace and trust making, either as citizens of our
+          nations, or as sovereign world residents on this context, and assure
+          that for one another especially, via expressions and acknowledgements;
+          we are already taking the first step with the least action required to
+          enter +impact generating and scaling environments, where we call them
+          Circles for Impact.
+          <br></br>
+          <br></br>
+          You can learn more about the details and its planned development for
+          2022 and 2023 on{" "}
+          <a
+            href="https://github.com/demo-verse/circles-of-peace"
+            target={"_blank"}
+            rel="noreferrer"
+          >
+            project's github page.
+          </a>
+          <br></br>
+          <br></br>With an $impact, $cause and $need based Decentralized
+          Exchange / DEX as well to be introduced next, on top of our utility
+          tokens such as $peace, $wisdom, $honesty and $respect for a Flow of
+          Peace, with its economy.
+          <br></br>
+          <br></br> The entry to Circles of Peace, is free and will not be
+          moderated or require a registration flow. However, it will be acting
+          as a gateway to Circles for Impact, and yes, the least yet deliberate
+          effort spent for peace, is a starter point for +impact collaborations.
         </p>
+        <br></br> <br></br> <br></br> <br></br>
+        <div className="enter-circles-of-peace">
+          <a
+            href="https://astounding-sprite-02f5bb.netlify.app/"
+            target={"_blank"}
+            rel="noreferrer"
+          >
+            <Button
+              text1="Enter"
+              text2="Circles of Peace"
+              // onClick={() => alert("You clicked button")}
+            />
+          </a>
+        </div>
+        <br></br>
+        {/* <br></br>
+        <br></br>
+        <img
+          src="https://i.imgur.com/YS3WI5e.png"
+          width={"100%"}
+          alt="reinterpretation of social media in peacemaking context"
+        ></img> */}
         <div className="signup">{button}</div>
         <br></br>
         <br></br>
-        <div className="services-content">
+        <br></br>
+        <br></br>
+        {/* <div className="services-content">
           {services?.slice(0, 3).map((service, index) => (
             <div key={index} className="service-item">
               <div className="service-icon">
@@ -82,8 +159,7 @@ const Services = forwardRef(({ button }, ref) => {
               </div>
             </div>
           ))}
-        </div>
-        <br></br> <br></br>
+        </div> */}
         <p>
           That is an intentional and international bond, that would give us the
           entitlement of being a collaborator of the{" "}
@@ -119,23 +195,8 @@ const Services = forwardRef(({ button }, ref) => {
           for the goals:
           <br></br>
           <br></br>
-          <img src="https://i.imgur.com/oB7SZAs.png" alt="mobile" />
-          <br></br> <br></br>
-          <p>
-            For all that to happen in a fun and effective way, we are initially
-            curating a few +impact spaces through non-premium memberships and
-            hence, limited capacity, starting with providers:{" "}
-            <a href="https://welo.space" target={"_blank"} rel="noreferrer">
-              welo.space
-            </a>{" "}
-            <a href="https://spatial.chat" target={"_blank"} rel="noreferrer">
-              spatial.chat
-            </a>{" "}
-            and{" "}
-            <a href="https://gather.town" target={"_blank"} rel="noreferrer">
-              gather.town
-            </a>{" "}
-          </p>{" "}
+          {/* <img src="https://i.imgur.com/oB7SZAs.png" width={"100%"} alt="mobile" />
+          <br></br> <br></br> */}
           <br></br>
           <p>Below is an environment for Circles for Impact @ welo.space</p>
           <br></br>
@@ -152,7 +213,7 @@ const Services = forwardRef(({ button }, ref) => {
           <br></br> <br></br>
           <h2>Good news, peacemaker!</h2>
           <br></br>
-          if you are at this stage, then you have not only experienced these
+          If you are at this stage, then you have not only experienced these
           Sustainable Development Goals, but also practice pretty much all
           skills and qualities of{" "}
           <a
@@ -183,6 +244,22 @@ const Services = forwardRef(({ button }, ref) => {
         </p>
         <br></br>
         <p>
+          For all that to happen in a fun and effective way, we are initially
+          curating a few +impact spaces through non-premium memberships and
+          hence, limited capacity, starting with providers:{" "}
+          <a href="https://welo.space" target={"_blank"} rel="noreferrer">
+            welo.space
+          </a>{" "}
+          <a href="https://spatial.chat" target={"_blank"} rel="noreferrer">
+            spatial.chat
+          </a>{" "}
+          and{" "}
+          <a href="https://gather.town" target={"_blank"} rel="noreferrer">
+            gather.town
+          </a>{" "}
+        </p>{" "}
+        <br></br>
+        <p>
           Hopefully, will be partnering with and be sponsored by those, and use
           the least amount of the funding we'd receive to be spent on that
           infrastructure, since it would be more meaningful to empower +impact
@@ -190,20 +267,21 @@ const Services = forwardRef(({ button }, ref) => {
         </p>
         <br></br>
         <p>
-          <strong>Just in case</strong> , we're also{" "}
+          <strong>Just in case</strong> , we're also prepared to build{" "}
           <a
             href="https://github.com/demo-verse/peace-game"
             target={"_blank"}
             rel="noreferrer"
           >
-            building our open sourced, in-house systems and integrations
+            open sourced, in-house systems and integrations
           </a>{" "}
           for advanced virtual communication, collaboration and learning
           capacity, with gamification component in place.
           <br></br>
           <br></br>
           That, will be launched as Peace Game, already have a portaling feature
-          to be adapted for the passages between +impact spaces and causes.
+          to be adapted for the passages between +impact spaces and causes.{" "}
+          <i>Please do not use it now, a lot to enhance there.</i>
         </p>
         <br></br>
         <p>
@@ -226,29 +304,7 @@ const Services = forwardRef(({ button }, ref) => {
           <br></br>
           <br></br>
           <br></br>
-          <h2>~ Let{"'"}s gooooO! ~</h2>
-          <br></br>
-          <i>
-            This whole thing, is all about boosting and observable, resilient
-            evolution of a self-legitimising flow, of peace.
-          </i>
         </p>
-        <br></br>
-        <p>
-          <strong>
-            For all that, calling everyone to live and leave a priceless legacy;
-            namingly, a World Peace through Equality and Equity
-          </strong>
-          .
-        </p>
-        <br></br>
-        <p>
-          World deserves the best, and we want the best for the world.
-          <br></br> <br></br>
-          <strong>& bests, in peace</strong>
-        </p>
-        <br></br>
-        <br></br>
         <br></br>
       </div>
     </div>

@@ -39,8 +39,11 @@ function App() {
       <Testimonial circles={<Circles />} />
 
 
-      <Become
-        ref={becomeRef}
+     
+
+
+      <Services
+        ref={servicesRef}
         buttons={[
           <a
             href="https://discord.gg/sqjdyCWNAR"
@@ -71,6 +74,24 @@ function App() {
             Matrix
           </a>,
         ]}
+        // button={
+        //   <a
+        //     href="https://github.com/demo-verse/circles-of-peace"
+        //     target={"_blank"}
+        //     rel="noreferrer"
+        //   >
+        //     We are about to scale +impact, with Inner and Sustainable
+        //     Development Goals focus. <br></br>
+        //     (click to see the details @ github)
+        //   </a>
+
+       
+        // }
+      />
+
+<Become
+        ref={becomeRef}
+        
         design={
           <Design
             style={{
@@ -93,28 +114,6 @@ function App() {
         }
       />
 
-
-
-      <Services
-        ref={servicesRef}
-        button={
-          <a
-            href="https://github.com/demo-verse/circles-of-peace"
-            target={"_blank"}
-            rel="noreferrer"
-          >
-            We are about to scale +impact, with Inner and Sustainable
-            Development Goals focus. <br></br>
-            (click to see the details @ github)
-          </a>
-
-          // <Button
-          //   text1="Enter"
-          //   text2="Circles of Peace"
-          //   onClick={() => alert("You clicked button")}
-          // />
-        }
-      />
 
       <Footer
         buttons={[

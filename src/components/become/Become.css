@@ -42,7 +42,7 @@
 }
 
 .become .become-content .become-text-left   p {
-	font-size: 16px;
+	font-size: 18px;
 	color: rgb(var(--text-color-2));
 	margin-bottom: 20px;
 	line-height: 24px;
@@ -56,6 +56,12 @@
 	/* color: rgb(var(--text-color-2)); */
 	margin-bottom: 20px;
 	line-height: 24px;
+}
+
+.become .signup {
+	width: 100%;
+	text-align: center;
+	margin-top: 50px;
 }
 
 .become .become-content .become-design {
