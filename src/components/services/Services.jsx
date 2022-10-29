@@ -124,7 +124,7 @@ const Services = forwardRef(({ button, buttons }, ref) => {
           >
             <Button
               text1="Enter"
-              text2="Circles of Peace"
+              text2="Circles of Peace, on development"
               // onClick={() => alert("You clicked button")}
             />
           </a>

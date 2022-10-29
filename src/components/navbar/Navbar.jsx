@@ -51,7 +51,7 @@ function Navbar({ button }) {
           <a href="https://miro.com/app/board/uXjVOX94E5k=/?share_link_id=267054985896" target={"_blank"} rel="noreferrer">A flow of peace</a>
           </li> 
         
-          <li>{button}</li>
+          {/* <li>{button}</li> */}
         </ul>
       </nav>
     </div>
