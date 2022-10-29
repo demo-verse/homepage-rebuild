@@ -1,13 +1,11 @@
 import "./Testimonial.css";
 import { clientImages, clientReviews } from "./TestimonialData";
-import {
-  FaQuoteLeft,
-} from "react-icons/fa";
+import { FaQuoteLeft } from "react-icons/fa";
 import { useState } from "react";
 
 function Testimonial({ design, circles, buttons }) {
-  const [currentSlide, ] = useState(0);
-  const [position, ] = useState(0);
+  const [currentSlide] = useState(0);
+  const [position] = useState(0);
 
   // const nextSlide = () => {
   //   if (currentSlide < clientReviews.length - 1) {
@@ -44,9 +42,18 @@ function Testimonial({ design, circles, buttons }) {
             <br></br>
             <br></br>
             However, citizens, the majority impacted by conflicts, have no
-            direct impact, significant labor, hence any observable equity, nor legitimacy in
-            the making and sustaining a World Peace that's assured via its greatest level of participation and experience.
-          </p>
+            direct impact, significant labor, hence any observable equity, nor
+            legitimacy in the making and sustaining a World Peace that's assured
+            via its greatest level of participation and experience.
+          </p>{" "}
+          <br></br>
+          <br></br>
+
+          <p>So far, </p>
+
+          <br></br>
+          <br></br>
+
           <div className="testimonial-content">
             <div className="testimonial-design">
               {circles}

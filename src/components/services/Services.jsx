@@ -1,6 +1,8 @@
 import "./Services.css";
 import { forwardRef } from "react";
 import Button from "../button/Button";
+import SocialInterpretations from '../../images/social_interaction_to_interpretations.png'
+
 
 const Services = forwardRef(({ button, buttons }, ref) => {
   return (
@@ -86,36 +88,49 @@ const Services = forwardRef(({ button, buttons }, ref) => {
           Peace, as a start: <br></br>Introducing Circles of Peace for + Impact
         </h2>
         <p>
-          In a web3 social platform, Circles of Peace, as we use our right on
+          In a web3 social platform, Circles of Peace, we are already taking the first step with the least action required to
+          enter +impact generating and scaling environments, and we are calling them
+          Circles for Impact. Below is our interpretation of the basic social media interactions, that are familiar to all by now, hopefully.
+          <br></br><br></br>
+          <img
+          src={SocialInterpretations}
+          width={"90%"}
+          alt="reinterpretation of social media in peacemaking context"
+        ></img>
+          <br></br>
+          
+          As we use our right on
           being equal on peace and trust making, either as citizens of our
-          nations, or as sovereign world residents on this context, and assure
-          that for one another especially, via expressions and acknowledgements;
-          we are already taking the first step with the least action required to
-          enter +impact generating and scaling environments, where we call them
-          Circles for Impact.
+          countries, or as sovereign world residents in this context, assured
+          that for one another especially, via expressions, acknowledgements and reflections.
+          
           <br></br>
           <br></br>
-          You can learn more about the details and its planned development for
-          2022 and 2023 on{" "}
-          <a
+
+          Visiting the    <a
             href="https://github.com/demo-verse/circles-of-peace"
             target={"_blank"}
             rel="noreferrer"
           >
             project's github page.
-          </a>
-          <br></br>
+          </a>{" "}    <a
+            href="https://github.com/demo-verse/circles-of-peace"
+            target={"_blank"}
+            rel="noreferrer"
+          >
+            project's github page.
+          </a> {" "} one can learn more about the details and its planned development for
+          2022 and 2023 and all that .
+       
+          {/* <br></br>
           <br></br>With an $impact, $cause and $need based Decentralized
           Exchange / DEX as well to be introduced next, on top of our utility
           tokens such as $peace, $wisdom, $honesty and $respect for a Flow of
           Peace, with its economy.
-          <br></br>
-          <br></br> The entry to Circles of Peace, is free and will not be
-          moderated or require a registration flow. However, it will be acting
-          as a gateway to Circles for Impact, and yes, the least yet deliberate
-          effort spent for peace, is a starter point for +impact collaborations.
+          <br></br> */}
+         
         </p>
-        <br></br> <br></br> <br></br> <br></br>
+        <br></br> <br></br> 
         <div className="enter-circles-of-peace">
           <a
             href="https://astounding-sprite-02f5bb.netlify.app/"
@@ -130,18 +145,10 @@ const Services = forwardRef(({ button, buttons }, ref) => {
           </a>
         </div>
         <br></br>
-        {/* <br></br>
-        <br></br>
-        <img
-          src="https://i.imgur.com/YS3WI5e.png"
-          width={"100%"}
-          alt="reinterpretation of social media in peacemaking context"
-        ></img> */}
+      
         <div className="signup">{button}</div>
         <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
+     
         {/* <div className="services-content">
           {services?.slice(0, 3).map((service, index) => (
             <div key={index} className="service-item">
@@ -161,6 +168,15 @@ const Services = forwardRef(({ button, buttons }, ref) => {
           ))}
         </div> */}
         <p>
+        <br></br> The entry to Circles of Peace, is free and will not be
+          moderated or require a registration flow. However, it will be acting
+          as a gateway to Circles for Impact, and yes, the least yet deliberate
+          effort spent for peace, is a starter point for +impact collaborations.
+        </p>
+        <br></br>
+        <p>
+
+           
           That is an intentional and international bond, that would give us the
           entitlement of being a collaborator of the{" "}
           <a href="https://sdgs.un.org/" target={"_blank"} rel="noreferrer">
@@ -192,13 +208,12 @@ const Services = forwardRef(({ button, buttons }, ref) => {
           before invited to the Circles for Impact.
           <br></br> <br></br>
           Those goals are basically around equality, peace, and collaboration
-          for the goals:
-          <br></br>
+          for the common goals.
           <br></br>
           {/* <img src="https://i.imgur.com/oB7SZAs.png" width={"100%"} alt="mobile" />
           <br></br> <br></br> */}
           <br></br>
-          <p>Below is an environment for Circles for Impact @ welo.space</p>
+          <p>Below is an environment for Circles for Impact @ welo.space, and is recorded when we were co-imagining and experiening how would education, collaboration, demonstration and resolutions on such spaces would be happening.</p>
           <br></br>
           <br></br>
           <iframe
