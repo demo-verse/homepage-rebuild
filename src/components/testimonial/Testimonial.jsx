@@ -1,31 +1,29 @@
 import "./Testimonial.css";
 import { clientImages, clientReviews } from "./TestimonialData";
 import {
-  FaArrowAltCircleLeft,
-  FaArrowAltCircleRight,
   FaQuoteLeft,
 } from "react-icons/fa";
 import { useState } from "react";
 
 function Testimonial({ design, circles, buttons }) {
-  const [currentSlide, setCurrentSlide] = useState(0);
-  const [position, setPosition] = useState(0);
+  const [currentSlide, ] = useState(0);
+  const [position, ] = useState(0);
 
-  const nextSlide = () => {
-    if (currentSlide < clientReviews.length - 1) {
-      setCurrentSlide((currentSlide) => currentSlide + 1);
-      setPosition((position) => position - 100);
-    }
-    return currentSlide;
-  };
+  // const nextSlide = () => {
+  //   if (currentSlide < clientReviews.length - 1) {
+  //     setCurrentSlide((currentSlide) => currentSlide + 1);
+  //     setPosition((position) => position - 100);
+  //   }
+  //   return currentSlide;
+  // };
 
-  const prevSlide = () => {
-    if (currentSlide > 0) {
-      setCurrentSlide((currentSlide) => currentSlide - 1);
-      setPosition((position) => position + 100);
-    }
-    return currentSlide;
-  };
+  // const prevSlide = () => {
+  //   if (currentSlide > 0) {
+  //     setCurrentSlide((currentSlide) => currentSlide - 1);
+  //     setPosition((position) => position + 100);
+  //   }
+  //   return currentSlide;
+  // };
 
   return (
     <div className="testimonial-bg">
