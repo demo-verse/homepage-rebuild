@@ -79,7 +79,7 @@ function Testimonial({ design, circles, buttons }) {
                       <em>{review.designation}</em>
                     </small>
                   </div>
-                  {index >= 0 && clientReviews.length - 1 !== index ? (
+                  {/* {index >= 0 && clientReviews.length - 1 !== index ? (
                     <FaArrowAltCircleLeft
                       className="quote-arrow left"
                       onClick={nextSlide}
@@ -94,7 +94,7 @@ function Testimonial({ design, circles, buttons }) {
                     />
                   ) : (
                     ""
-                  )}
+                  )} */}
                 </div>
               ))}
             </div>
