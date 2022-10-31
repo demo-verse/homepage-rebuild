@@ -67,21 +67,23 @@ const Services = forwardRef(({ button, buttons }, ref) => {
         </p> */}
         <br></br>
         <p>
-          <p>
-            @ demoVerse, we'd like transparency, resilience and especially
-            undeniability on the making of a World Peace, through equality and
-            equity; more specifically, having responsibility and stakes in the
-            remotes, as well as locally in an unstoppable fashion.
-            <br></br>
-            <br></br> That{"'"}s why, blockchain is at the core of our solution
-            design. Yet, this whole thing could be done with pencils and papers
-            as well.
-            {/* then all that impact
+          At{" "}
+          <a href="https://demover.se" target={"_blank"} rel="noreferrer">
+            demoVerse,
+          </a>{" "}
+          we'd like transparency, resilience and especially undeniability on the
+          making of a World Peace, through equality and equity; more
+          specifically, having responsibility and stakes in the remotes, as well
+          as locally in an unstoppable fashion.
+          <br></br>
+          <br></br> That{"'"}s why, blockchain is at the core of our solution
+          design. Yet, this whole thing could be done with pencils and papers as
+          well.
+          {/* then all that impact
             generating projects and efforts, that are appreciated well and build
             a new economy of peace. */}
-          </p>
-          <br></br>
         </p>
+        <br></br>
         <br></br>
         <h2>
           Peace, as a start: <br></br>Introducing Circles of Peace for + Impact
@@ -106,13 +108,13 @@ const Services = forwardRef(({ button, buttons }, ref) => {
           acknowledgements and reflections.
           <br></br>
           <br></br>
-          Visiting Circles of Peace {" "}
+          Visiting Circles of Peace{" "}
           <a
             href="https://github.com/demo-verse/circles-of-peace"
             target={"_blank"}
             rel="noreferrer"
           >
-             github page.
+            github page.
           </a>{" "}
           one can learn more about the details and its planned development for
           2022 and 2023 and all that .
@@ -171,14 +173,13 @@ const Services = forwardRef(({ button, buttons }, ref) => {
           <a href="https://sdgs.un.org/" target={"_blank"} rel="noreferrer">
             United Nations Sustainable Development Goals
           </a>{" "}
-
           <a
             href="https://sdgs.un.org/goals/goal5"
             target={"_blank"}
             rel="noreferrer"
           >
             #5
-          </a> {" "}
+          </a>{" "}
           <a
             href="https://sdgs.un.org/goals/goal10"
             target={"_blank"}
@@ -205,27 +206,37 @@ const Services = forwardRef(({ button, buttons }, ref) => {
           before invited to the Circles for Impact.
           <br></br> <br></br>
           Those goals are basically around equality, peace, and collaboration
-          for the common goals. 
-          <br></br><br></br>One more, thing to mention here, is that goals #5: Gender Equality and #10: Reducing inequalities between and within countries, are quite relevant for us, as we have introduced a Peace, by Equality approach between people in the first place. 
-          <br></br><br></br> Especially on gender equality, including people without official entitlements on signing those peace treaties between countries, is a balancer action. 
-          <br></br><br></br>How so? As of 19 September 2022, 
-
-{" "}            <a
+          for the common goals.
+          <br></br>
+          <br></br>One more, thing to mention here, is that goals #5: Gender
+          Equality and #10: Reducing inequalities between and within countries,
+          are quite relevant for us, as we have introduced a Peace, by Equality
+          approach between people in the first place.
+          <br></br>
+          <br></br> Especially on gender equality, including people without
+          official entitlements on signing those peace treaties between
+          countries, is a balancer action.
+          <br></br>
+          <br></br>How so? As of 19 September 2022,{" "}
+          <a
             href="https://www.unwomen.org/en/what-we-do/leadership-and-political-participation/facts-and-figures"
             target={"_blank"}
             rel="noreferrer"
           >
-          <strong>only </strong> {" "}13 women 
-
-          </a> {" "}
+            <strong>only </strong> 13 women
+          </a>{" "}
           {/* (50.4%) and 496 are women (49.6%) */}
-          are in executive government positions, aka. heads of their states, roughly conveyed. Considering 193 member states in the United Nations, meaning women is represented as low as 6-7%. 
-
-          <br></br>          <br></br> That might be a reason why there have not been an ultimate consensus around peace in our history, however, would like to increase women's participation for sealing those treaties by decentralization of diplomacy, just like this.
-          <br></br>          <br></br> 
-           So that goes almost 50%/50% between genders that way, for all, without having to wait more years on women's inclusion via official entitlement to be the signers as finalisers, sovereign states.
-
-           
+          are in executive government positions, aka. heads of their states,
+          roughly conveyed. Considering 193 member states in the United Nations,
+          meaning women is represented as low as 6-7%.
+          <br></br> <br></br> That might be a reason why there have not been an
+          ultimate consensus around peace in our history, however, would like to
+          increase women's participation for sealing those treaties by
+          decentralization of diplomacy, just like this.
+          <br></br> <br></br>
+          So that goes almost 50%/50% between genders that way, for all, without
+          having to wait more years on women's inclusion via official
+          entitlement to be the signers as finalisers, sovereign states.
           <br></br>
           {/* <img src="https://i.imgur.com/oB7SZAs.png" width={"100%"} alt="mobile" />
           <br></br> <br></br> */}

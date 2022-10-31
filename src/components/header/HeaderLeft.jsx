@@ -19,18 +19,20 @@ function HeaderLeft({ servicesRef }) {
           <strong>humanity.</strong>
         </p>
 
-        <p>
+        {/* <p>
           Here, we are introducing a new human right, and starting a progressive
-          decentralization and peace-orientation in diplomacy; along with (soon)
-          demand-aware and potentially oriented, proactive electorship paradigm,
+          decentralization and peace-orientation in diplomacy; along with a
+          demand-aware, proactive electorship paradigm,
           for the 21st century.
-        </p>
+        </p> */}
 
         <p>
         
           It{"'"}s time to separate power and violence so well,{" "}
-          <strong>with our Art of Peace.</strong>
-         
+          <strong>with our Art of Peace.</strong> {" "} <br></br><br></br>
+            This project is our restoration, one that is peaceful and
+            movemental. Now is the new future, and{" "}
+            <strong> we are the power.</strong>
          
         </p>
 

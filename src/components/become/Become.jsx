@@ -15,24 +15,23 @@ const Become = forwardRef(({ design, circles, circlesOfPeaceButton }, ref) => {
                 <div className="community-links"></div>
 
                 <h2>
-                  Why and how blockchain, is at <br></br> the core of a World
-                  Peace solution proposal and what is it really?
+                  Why blockchain technology made sense, for a World Peace, by equality and equity?
                 </h2>
                 <div>
                   <p>
                     <strong>As Generation Peace, </strong>
                     the multi-generation of this era, the stage is ours now.
                     <br></br>
+                    <br></br>All we need is to accumulate common sense, will and
+                    intentions, and make them observable, via persisting them
+                    transparently and resiliently: <strong>undeniably</strong>.
+                    <br></br>
                     <br></br>
                     We got a historical, prolonged permission already, that'd only be boosted and realised, by the living and
                     the future generations and their generosity.
                     <br></br>
                     <br></br>
-                    All we need is to accumulate common sense, will and
-                    intentions, and make them observable, via persisting them
-                    transparently and resiliently: <strong>undeniably</strong>.
-                    <br></br>
-                    <br></br>
+                    
                     Apart from that, we humbly want to start something we call, Peace Economy and
                     its incentives that would catalyse the whole thing. 
                     
@@ -91,7 +90,7 @@ const Become = forwardRef(({ design, circles, circlesOfPeaceButton }, ref) => {
                      since August 2022,made available on a blockchain test network:{" "}
                      <br></br> <br></br>
 
-                    Now, it is good time to get{" "}
+                    {/* Now, it is good time to get{" "}
                     <a
                       href="https://youtu.be/lBhZR4Vf6jg?t=475"
                       target={"_blank"}
@@ -102,8 +101,8 @@ const Become = forwardRef(({ design, circles, circlesOfPeaceButton }, ref) => {
                     on what this blockchain and a distributed ledger for
                     consensus is all about, from Juan Benet, the creator of IPFS
                     and Filecoin, then tell a bit more about our efforts on the Proof of Concept dApp, peacemaker and Circles of Peace a bit more.
-                    <br></br> <br></br>
-                    <iframe
+                    <br></br> <br></br> */}
+                    {/* <iframe
                       width="560"
                       height="315"
                       src="https://www.youtube.com/embed/lBhZR4Vf6jg?start=475"
@@ -113,7 +112,7 @@ const Become = forwardRef(({ design, circles, circlesOfPeaceButton }, ref) => {
                       allowFullScreen
                     ></iframe>
                     <br></br>
-                    <br></br>
+                    <br></br> */}
                     We've so far focused using the context-aware capacity of
                     this decentralised ledger technology.
                   </p>

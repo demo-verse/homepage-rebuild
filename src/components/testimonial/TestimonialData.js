@@ -41,6 +41,6 @@ export const clientReviews = [
 	{
 		name: 'Abbas Tolgay',
 		designation: 'Peacemaker, techie artist',
-		text: 'Have found great motivation on working for this cause, and am happy to gift a project like this, connecting with people that are caring, aware, generous, and sincerely up for scalable change and impact. Hoping that peace and trust making in the 21st century will be perceived as a small step for each of us and a big leap for humanity. Peace, is just the start. Let\'s live and leave that as a legacy with our Art of Peace, and focus on healing this planet and those living on it. I believe in humanity, and I need, and want humanity to believe in itself too.',
+		text: 'I have found great motivation on working for this cause and connecting with people that are caring, aware, generous, and sincerely up for scalable change and impact. Hoping that peace and trust making in the 21st century will be perceived exactly: a small step for each of us and a big one for humanity. Peace, is just the start. Let\'s live and leave that as a legacy with our Art of Peace, and focus on healing this planet and those living on it. I believe in humanity, and I need, and want humanity to believe in itself too.',
 	},
 ];

@@ -9,7 +9,7 @@ function HeaderRight() {
       <div className="wrapper">
         <div className="intro-song">
 			{/* wax tailor - phonovisions symphonic orchestra */}
-          <iframe
+          {/* <iframe
             width="94%"
             height="420"
             src="https://www.youtube.com/embed/3Wysn_hJ7IQ"
@@ -17,26 +17,34 @@ function HeaderRight() {
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
-          ></iframe>
-
+          ></iframe> */}
+ <img
+              src="https://i.imgur.com/mp0bo76.png"
+              width={"80%"}
+              alt="logo"
+            ></img>
 <br></br>
           <br></br>
-          <hr style={{ width: "50%" }}></hr>
-          <i>
-            You can also just listen to this whole page, <br></br> recorded with
-            text2speech @ 29th October, 2022.
-          </i>
-          <hr style={{ width: "50%" }}></hr>
-          <br></br>
+      
           <iframe
             title="readAloud text2speech"
             width="80%"
             height="70"
             scrolling="yes"
-            frameborder="no"
-            allow="autoplay"
+            allow="no"
             src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1372123906&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
           ></iframe>
+    <hr style={{ width: "80%" }}></hr>
+          <i>
+            You can also listen to this whole page
+          </i>
+          <hr style={{ width: "80%" }}></hr>
+          <br></br>
+		
+		  <p>
+       
+	   
+	  </p>
 		{/* here comes the sun - the beatles */}
           {/* <iframe
             src="https://www.youtube.com/embed/KQetemT1sWc"
