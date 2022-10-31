@@ -206,8 +206,7 @@ const Services = forwardRef(({ button, buttons }, ref) => {
           <br></br> <br></br>
           Those goals are basically around equality, peace, and collaboration
           for the common goals. 
-          <br></br>One
-          One thing to mention here, is that goals #5: Gender Equality and #10: Reducing inequalities between and withing countries, are quite relevant for us, as we have introduced a Peace, by Equality approach between people in the first place. 
+          <br></br><br></br>One more, thing to mention here, is that goals #5: Gender Equality and #10: Reducing inequalities between and withing countries, are quite relevant for us, as we have introduced a Peace, by Equality approach between people in the first place. 
           <br></br><br></br> Especially on gender equality, including people without official entitlements on signing those peace treaties between countries, is a balancer action. 
           <br></br><br></br>How so? As of 19 September 2022, 
 
