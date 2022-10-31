@@ -19,12 +19,7 @@ function HeaderLeft({ servicesRef }) {
           <strong>humanity.</strong>
         </p>
 
-        {/* <p>
-          Here, we are introducing a new human right, and starting a progressive
-          decentralization and peace-orientation in diplomacy; along with a
-          demand-aware, proactive electorship paradigm,
-          for the 21st century.
-        </p> */}
+       
 
         <p>
         
