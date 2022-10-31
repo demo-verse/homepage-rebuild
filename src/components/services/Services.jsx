@@ -1,8 +1,7 @@
 import "./Services.css";
 import { forwardRef } from "react";
 import Button from "../button/Button";
-import SocialInterpretations from '../../images/social_interaction_to_interpretations.png'
-
+import SocialInterpretations from "../../images/social_interaction_to_interpretations.png";
 
 const Services = forwardRef(({ button, buttons }, ref) => {
   return (
@@ -88,49 +87,43 @@ const Services = forwardRef(({ button, buttons }, ref) => {
           Peace, as a start: <br></br>Introducing Circles of Peace for + Impact
         </h2>
         <p>
-          In a web3 social platform, Circles of Peace, we are already taking the first step with the least action required to
-          enter +impact generating and scaling environments, and we are calling them
-          Circles for Impact. Below is our interpretation of the basic social media interactions, that are familiar to all by now, hopefully.
-          <br></br><br></br>
+          In a web3 social platform, Circles of Peace, we are already taking the
+          first step with the least action required to enter +impact generating
+          and scaling environments, and we are calling them Circles for Impact.
+          Below is our interpretation of the basic social media interactions,
+          that are familiar to all by now, hopefully.
+          <br></br>
+          <br></br>
           <img
-          src={SocialInterpretations}
-          width={"90%"}
-          alt="reinterpretation of social media in peacemaking context"
-        ></img>
+            src={SocialInterpretations}
+            width={"90%"}
+            alt="reinterpretation of social media in peacemaking context"
+          ></img>
           <br></br>
-          
-          As we use our right on
-          being equal on peace and trust making, either as citizens of our
-          countries, or as sovereign world residents in this context, assured
-          that for one another especially, via expressions, acknowledgements and reflections.
-          
+          As we use our right on being equal on peace and trust making, either
+          as citizens of our countries, or as sovereign world residents in this
+          context, assured that for one another especially, via expressions,
+          acknowledgements and reflections.
           <br></br>
           <br></br>
-
-          Visiting the    <a
+          Visiting Circles of Peace {" "}
+          <a
             href="https://github.com/demo-verse/circles-of-peace"
             target={"_blank"}
             rel="noreferrer"
           >
-            project's github page.
-          </a>{" "}    <a
-            href="https://github.com/demo-verse/circles-of-peace"
-            target={"_blank"}
-            rel="noreferrer"
-          >
-            project's github page.
-          </a> {" "} one can learn more about the details and its planned development for
+             github page.
+          </a>{" "}
+          one can learn more about the details and its planned development for
           2022 and 2023 and all that .
-       
           {/* <br></br>
           <br></br>With an $impact, $cause and $need based Decentralized
           Exchange / DEX as well to be introduced next, on top of our utility
           tokens such as $peace, $wisdom, $honesty and $respect for a Flow of
           Peace, with its economy.
           <br></br> */}
-         
         </p>
-        <br></br> <br></br> 
+        <br></br> <br></br>
         <div className="enter-circles-of-peace">
           <a
             href="https://astounding-sprite-02f5bb.netlify.app/"
@@ -145,10 +138,8 @@ const Services = forwardRef(({ button, buttons }, ref) => {
           </a>
         </div>
         <br></br>
-      
         <div className="signup">{button}</div>
         <br></br>
-     
         {/* <div className="services-content">
           {services?.slice(0, 3).map((service, index) => (
             <div key={index} className="service-item">
@@ -168,20 +159,26 @@ const Services = forwardRef(({ button, buttons }, ref) => {
           ))}
         </div> */}
         <p>
-        <br></br> The entry to Circles of Peace, is free and will not be
+          <br></br> The entry to Circles of Peace, is free and will not be
           moderated or require a registration flow. However, it will be acting
           as a gateway to Circles for Impact, and yes, the least yet deliberate
           effort spent for peace, is a starter point for +impact collaborations.
         </p>
         <br></br>
         <p>
-
-           
           That is an intentional and international bond, that would give us the
           entitlement of being a collaborator of the{" "}
           <a href="https://sdgs.un.org/" target={"_blank"} rel="noreferrer">
             United Nations Sustainable Development Goals
           </a>{" "}
+
+          <a
+            href="https://sdgs.un.org/goals/goal5"
+            target={"_blank"}
+            rel="noreferrer"
+          >
+            #5
+          </a> {" "}
           <a
             href="https://sdgs.un.org/goals/goal10"
             target={"_blank"}
@@ -208,12 +205,38 @@ const Services = forwardRef(({ button, buttons }, ref) => {
           before invited to the Circles for Impact.
           <br></br> <br></br>
           Those goals are basically around equality, peace, and collaboration
-          for the common goals.
+          for the common goals. 
+          <br></br>One
+          One thing to mention here, is that goals #5: Gender Equality and #10: Reducing inequalities between and withing countries, are quite relevant for us, as we have introduced a Peace, by Equality approach between people in the first place. 
+          <br></br><br></br> Especially on gender equality, including people without official entitlements on signing those peace treaties between countries, is a balancer action. 
+          <br></br><br></br>How so? As of 19 September 2022, 
+
+{" "}            <a
+            href="https://www.unwomen.org/en/what-we-do/leadership-and-political-participation/facts-and-figures"
+            target={"_blank"}
+            rel="noreferrer"
+          >
+          <strong>only </strong> {" "}13 women 
+
+          </a> {" "}
+          {/* (50.4%) and 496 are women (49.6%) */}
+          are in executive government positions, aka. heads of their states, roughly conveyed. Considering 193 member states in the United Nations, meaning women is represented as low as 6-7%. 
+
+          <br></br>          <br></br> That might be a reason why there have not been an ultimate consensus around peace in our history, however, would like to increase women's participation for sealing those treaties by decentralization of diplomacy, just like this.
+          <br></br>          <br></br> 
+           So that goes almost 50%/50% between genders that way, for all, without having to wait more years on women's inclusion via official entitlement to be the signers of finalizers, sovereign states.
+
+           
           <br></br>
           {/* <img src="https://i.imgur.com/oB7SZAs.png" width={"100%"} alt="mobile" />
           <br></br> <br></br> */}
           <br></br>
-          <p>Below is an environment for Circles for Impact @ welo.space, and is recorded when we were co-imagining and experiening how would education, collaboration, demonstration and resolutions on such spaces would be happening.</p>
+          <p>
+            Below is an environment for Circles for Impact @ welo.space, and is
+            recorded when we were co-imagining and experiening how would
+            education, collaboration, demonstration and resolutions on such
+            spaces would be happening.
+          </p>
           <br></br>
           <br></br>
           <iframe

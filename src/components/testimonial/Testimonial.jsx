@@ -30,30 +30,46 @@ function Testimonial({ design, circles, buttons }) {
         <div className="testimonial">
           {/* <h2>How does it feel, being equal on this matter?</h2> */}
           <h2>
-            Generation Peace!<br></br> How would you imagine World Peace, and
-            make that a unique and real one?
+            Generation Peace!<br></br> How would you imagine, express and make a
+            a World Peace?
           </h2>
+          <p>
+            So far, this is how we have imagined, and proposed as a solution,{" "}
+            <strong>a Flow of Peace</strong>; that evolved since January, while
+            there was a brutal war out there, well you know about that already.
+            <br></br>          <br></br>
+
+          This project is our restoration, one that is peaceful and movemental.
+          Now is the new future, and <strong> we are the power.</strong>
+          
+          </p>
+          <br></br>
+          
           <p>
             Historically, we have been observing this: parties opts-in and out
             of peace treaties; traditionally and naturally, by delegation or
             inheritance of power, have been the ones with highest capacity of
-            violence, whether they use it or not in an offensive manner, or even
-            if not use at all.
+            violence; whether use that hard power in an offensive manner or not, or not even
+           not use that, at all.
             <br></br>
             <br></br>
-            However, citizens, the majority impacted by conflicts, have no
+            However, the majority of citizens, worldwide, impacted by conflicts; have no
             direct impact, significant labor, hence any observable equity, nor
-            legitimacy in the making and sustaining a World Peace that's assured
+            legitimacy in the making and sustaining a World Peace, which could have been as well assured
             via its greatest level of participation and experience.
           </p>{" "}
           <br></br>
           <br></br>
-
-          <p>So far, </p>
-
-          <br></br>
-          <br></br>
-
+          <p>
+            We are highly motivated on changing this for real. Once, and for
+            all. This should be tried. We'd like to start a process, where
+            people are as powerful as their states, and expect a reflection,
+            that is beyond a respect or all that.
+            <br></br>
+            <br></br>From now on, it'll be our states, that will receive respect
+            from us, as they commit their intentions and deeds on peacemaking
+            with other states in the world. We'll not that happen anymore.{" "}
+          </p>
           <div className="testimonial-content">
             <div className="testimonial-design">
               {circles}

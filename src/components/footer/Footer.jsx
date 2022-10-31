@@ -22,9 +22,7 @@ function footer({ buttons }) {
           <div className="copyright">
             <p>
               Nothing to copyright.{" "}
-              <strong>
-                {"|> "} all rights acknowledged {"<|"}
-              </strong>
+              <strong>{"|> "}however, all rights self-acknowledged.</strong>
               <br></br> <br></br>
               We will help you to start a World Peace project if you needed
               empowerment. This is our mission.
@@ -54,30 +52,48 @@ function footer({ buttons }) {
                 wikipage of World Peace
               </a>{" "}
               later this year, having their places, somewhere between the World
-              Peace theories, Mutual assured destruction and Peace through
-              strength.
+              Peace theories,
+              <a href="https://en.wikipedia.org/wiki/Mutual_assured_destruction" target={"_blank"} rel="noreferrer">
+                Mutual assured destruction
+              </a>
+              and {" "}
+              <a href="https://en.wikipedia.org/wiki/Peace_through_strength" target={"_blank"} rel="noreferrer">
+                Peace through strength.
+              </a>{" "}
               <br></br> <br></br>
-              yes, we've both introduced an anti-thesis to a 20st centurty thesis, and the synthesis that brought that new human right definition together.
-
-              and all that happened naturally, while there was a war out there, <strong>we have just felt a level of awareness and intellectual responsibility</strong>, that's all.
-             <br></br>             <br></br>
-             <strong> history shall record that, as well.</strong>
+              yes, we've both introduced an anti-thesis to a 20st centurty
+              thesis, and the synthesis that brought that new human right
+              definition together. and all that happened naturally, while there
+              was a war out there,{" "}
+              <strong>
+                we have just felt the least level of awareness and the highest level of intellectual
+                responsibility required to start this and take action in our sincere, egalitarian way.
+              </strong>
             </p>
+            <br></br>~~~~~~~~~~~~~~~
             <br></br>
-            <br></br>
-            <a href="https://stateful.art" target={"_blank"} rel="noreferrer">
-              initiated by stateful.art | start
+            <br></br>  nearly just before, a war in Ukraine have started, 
+            <br></br>  initiated by  {" "}<a href="https://stateful.art" target={"_blank"} rel="noreferrer">
+              stateful.art | start
             </a>{" "}
-            , back in Jan/Feb 2022. <br></br>
-            <br></br> ~ nearly just before, a war in Ukraine have started. and
-            since then, <br></br> we are dealing with our feeling of urgency on
+            , back in Jan/Feb 2022. <br></br><br></br>
+            since then,  we are dealing with our expressed feeling of urgency on
             this, <br></br> with no financial resource offered/received up to
             this date.
-            <br></br>            <br></br>
-
+            <br></br> 
+           
+           <br></br> <br></br>
+              that's all, folks..
             <strong>that{"'"}s our story.</strong>
+            <br></br> <br></br>
+            <strong> the history shall record this, as well.</strong>
             <br></br>
             <br></br>
+            <img
+              src="https://expressionsofpeace.org/YinYang.png"
+              width={"62px"}
+              alt="logo"
+            ></img>
             <div className="contacts">
               <span>
                 <FaEnvelope className="icon" />

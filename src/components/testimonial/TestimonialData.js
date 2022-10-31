@@ -25,7 +25,7 @@ export const clientReviews = [
 	{
 		name: 'Aloysious',
 		designation: 'Queer, Polyamorous Autigender, Anti-=war veteran of color',
-		text: 'I was testing Expressions of Peace for the @demoversal  project...  I am grateful for the connections I am making with value aligned individuals in these times.   I am grateful to have such meaningful projects to be working on.',
+		text: 'I imagine a world where people do not have to compete for survival but rather share their individual to collective resources. The only "work" people do is by choice / out of necessity and care ..an example being working on ones own garden with the intentions to share the fruits of labor with others. I want to live in a world filled with the energy of #mutualism as opposed to c[r]apitalism and consumerism. I want to save the planet from destruction and GrandMother Moon from colonization.',
 	},
 	// {
 	// 	name: 'Isaac',
@@ -35,10 +35,9 @@ export const clientReviews = [
 
 	{
 		name: 'Rosca',
-		designation: 'Discord Project Manager, Web3 Lion',
+		designation: 'Chief Discord Officer',
 		text: 'In a world that\'s filled with violence, using the Expressions of Peace application has been very helpful for my mental health. Everyday there is a new problem that needs to be solved and by using Expressions of Peace, it helps me come up with peaceful and better ways to solve problems that occur in my life. I hope that in the near future the world will find as much fun and mental clarity when using this app as much as I have.',
 	},
-
 	{
 		name: 'Abbas Tolgay',
 		designation: 'Peacemaker, techie artist',

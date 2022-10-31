@@ -8,6 +8,7 @@ function HeaderRight() {
     <div className="right">
       <div className="wrapper">
         <div className="intro-song">
+			{/* wax tailor - phonovisions symphonic orchestra */}
           <iframe
             width="94%"
             height="420"
@@ -17,9 +18,27 @@ function HeaderRight() {
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           ></iframe>
+		{/* here comes the sun - the beatles */}
+          {/* <iframe
+            src="https://www.youtube.com/embed/KQetemT1sWc"
+            width="94%"
+            height="540"
+            title="YouTube video player"
+            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+          ></iframe> */}
+		{/* come together - the beatles */}
+{/* 
+<iframe
+                width="100%"
+                height="540"
+                src="https://www.youtube.com/embed/45cYwDMibGo"
+                title="YouTube video player"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              ></iframe> */}
+
         </div>
-		
-	
       </div>
       {/* <div className="our-right-poster">
 

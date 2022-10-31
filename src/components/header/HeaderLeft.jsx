@@ -27,10 +27,7 @@ function HeaderLeft({ servicesRef }) {
         </p>
 
         <p>
-          This project is our restoration, one that is peaceful and movemental.
-          Now is the new future, and <strong> we are the power</strong>
-          <br></br>
-          <br></br>
+        
           It{"'"}s time to separate power and violence so well,{" "}
           <strong>with our Art of Peace.</strong>
           <br></br>
