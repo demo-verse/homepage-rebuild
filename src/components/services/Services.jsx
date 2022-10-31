@@ -206,7 +206,7 @@ const Services = forwardRef(({ button, buttons }, ref) => {
           <br></br> <br></br>
           Those goals are basically around equality, peace, and collaboration
           for the common goals. 
-          <br></br><br></br>One more, thing to mention here, is that goals #5: Gender Equality and #10: Reducing inequalities between and withing countries, are quite relevant for us, as we have introduced a Peace, by Equality approach between people in the first place. 
+          <br></br><br></br>One more, thing to mention here, is that goals #5: Gender Equality and #10: Reducing inequalities between and within countries, are quite relevant for us, as we have introduced a Peace, by Equality approach between people in the first place. 
           <br></br><br></br> Especially on gender equality, including people without official entitlements on signing those peace treaties between countries, is a balancer action. 
           <br></br><br></br>How so? As of 19 September 2022, 
 
@@ -223,7 +223,7 @@ const Services = forwardRef(({ button, buttons }, ref) => {
 
           <br></br>          <br></br> That might be a reason why there have not been an ultimate consensus around peace in our history, however, would like to increase women's participation for sealing those treaties by decentralization of diplomacy, just like this.
           <br></br>          <br></br> 
-           So that goes almost 50%/50% between genders that way, for all, without having to wait more years on women's inclusion via official entitlement to be the signers of finalizers, sovereign states.
+           So that goes almost 50%/50% between genders that way, for all, without having to wait more years on women's inclusion via official entitlement to be the signers as finalisers, sovereign states.
 
            
           <br></br>
