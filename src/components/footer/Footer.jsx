@@ -21,8 +21,12 @@ function footer({ buttons }) {
         <div className="footer-bottom">
           <div className="copyright">
             <p>
-              Nothing to copyright.{" "}
-              <strong>{"|> "}however, all rights self-acknowledged.</strong>
+              Nothing to copyright. <br></br>
+              <strong>
+                however, intellectual rights, humbly self-acknowledged,
+                <br></br>
+                would be even cooler if we haven't mentioned at all.
+              </strong>
               <br></br> <br></br>
               We will help you to start a World Peace project if you needed
               empowerment. This is our mission.
@@ -51,41 +55,74 @@ function footer({ buttons }) {
               >
                 wikipage of World Peace
               </a>{" "}
-              later this year, having their places, somewhere between the World
-              Peace theories,
-              <a href="https://en.wikipedia.org/wiki/Mutual_assured_destruction" target={"_blank"} rel="noreferrer">
+              later this year, and having their places there, somewhere between
+              the World Peace theories,{" "}
+              <a
+                href="https://en.wikipedia.org/wiki/Mutual_assured_destruction"
+                target={"_blank"}
+                rel="noreferrer"
+              >
                 Mutual assured destruction
-              </a>
-              and {" "}
-              <a href="https://en.wikipedia.org/wiki/Peace_through_strength" target={"_blank"} rel="noreferrer">
+              </a>{" "}
+              and{" "}
+              <a
+                href="https://en.wikipedia.org/wiki/Peace_through_strength"
+                target={"_blank"}
+                rel="noreferrer"
+              >
                 Peace through strength.
               </a>{" "}
               <br></br> <br></br>
-              yes, we've both introduced an anti-thesis to a 20st centurty
-              thesis, and the synthesis that brought that new human right
-              definition together. and all that happened naturally, while there
-              was a war out there,{" "}
+              Yes, we've both introduced an anti-thesis to a 20st centurty
+              thesis via negating that; and the synthesis, Peace by/through
+              equality and equity, which brought a new human right to life
+              <br></br>
+              <br></br>
+              And all that happened naturally, while there was a war out there,{" "}
+              we have just felt{" "}
               <strong>
-                we have just felt the least level of awareness and the highest level of intellectual
-                responsibility required to start this and take action in our sincere, egalitarian way.
-              </strong>
+                the least level of awareness and the highest level of
+                intellectual responsibility required to start this
+              </strong>{" "}
+              and take action in our sincere, egalitarian way.
             </p>
             <br></br>~~~~~~~~~~~~~~~
             <br></br>
-            <br></br>  nearly just before, a war in Ukraine have started, 
-            <br></br>  initiated by  {" "}<a href="https://stateful.art" target={"_blank"} rel="noreferrer">
+            <br></br> This whole concept and perspective began, nearly just
+            before the war in Ukraine have started.
+            <br></br>
+            <br></br>
+            Back then we were in a{" "}
+            <a href="https://sovereignnature.com/winter-2022-hackathon-challenge" target={"_blank"} rel="noreferrer">
+              hackathon by Sovereign Nature Initiative and De Ceuvel
+            </a>{" "}
+            , to give nature voice and build a high level of consensus, including
+            many livings in urban scenes.
+            <br></br>
+            <br></br>
+            You may want to have a look at our initial effort there, {" "}
+            <a href="https://github.com/ent-dao/ent-portals" target={"_blank"} rel="noreferrer">
+            Portals of EntDAO
+            </a>{" "}
+            , as it is raw, and still dormant at its imagination phase, since February 5-6 2022. EntDAO, with its liquid democracy and scientific data and ruleset integrations in pollution offset decision making, will
+            also be part of the umbrella project,{" "}
+            <a href="https://demover.se" target={"_blank"} rel="noreferrer">
+              demoVerse
+            </a>{" "}
+            which has been coined as{" "}
+            <strong>"a metaverse for democracy/demonstrations".</strong>
+            <br></br> <br></br>~~~~~~~~~~~~~~~ <br></br>
+            initiated by{" "}
+            <a href="https://stateful.art" target={"_blank"} rel="noreferrer">
               stateful.art | start
             </a>{" "}
-            , back in Jan/Feb 2022. <br></br><br></br>
-            since then,  we are dealing with our expressed feeling of urgency on
+            since then, we are dealing with our expressed feeling of urgency on
             this, <br></br> with no financial resource offered/received up to
             this date.
-            <br></br> 
-           
-           <br></br> <br></br>
-              that's all, folks..
+            <br></br>
+            that's all, folks..
             <strong>that{"'"}s our story.</strong>
-            <br></br> <br></br>
+            <br></br>
             <strong> the history shall record this, as well.</strong>
             <br></br>
             <br></br>

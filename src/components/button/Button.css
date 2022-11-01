@@ -1,5 +1,7 @@
 button {
-	font-size: 18px;
+	margin-top: auto;
+	margin-right: 10px;
+	font-size: 16px;
 	padding: 8px 20px;
 	border: 3px solid rgb(var(--primary-color-1));
 	border-radius: 30px;
@@ -9,7 +11,9 @@ button {
 	transition: 0.3s ease;
 }
 button:hover {
-	background-color: rgba(var(--primary-color-1), 0.2);
+	background-color: black;
+	color: white;
+
 }
 button span {
 	font-weight: bold;
@@ -27,7 +31,7 @@ button span {
 }
 
 .be-a-peacemaker button {
-	font-size: 18px;
+	font-size: 16px;
 	padding: 8px 20px;
 	border: 3px solid rgb(205, 83, 222);
 	border-radius: 30px;

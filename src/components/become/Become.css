@@ -41,11 +41,11 @@
 	flex: 1;
 }
 
-.become .become-content .become-text-left   p {
+.become .become-content .become-text-left p {
 	font-size: 18px;
 	color: rgb(var(--text-color-1));
 	margin-bottom: 20px;
-	line-height: `24px;
+	line-height: 24px;
 }
 .become .become-content .become-text-right p {
 	font-size: 18px;
