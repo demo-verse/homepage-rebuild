@@ -43,13 +43,13 @@ export const clientReviews = [
 		text: 'In a world that\'s filled with violence, using the Expressions of Peace application has been very helpful for my mental health. Everyday there is a new problem that needs to be solved and by using Expressions of Peace, it helps me come up with peaceful and better ways to solve problems that occur in my life. I hope that in the near future the world will find as much fun and mental clarity when using this app as much as I have.',
 	},
 	{
-		name: 'Abbas Tolgay',
+		name: 'A. Tolgay',
 		designation: 'Peacemaker, techie artist',
 		text: 'I have found great motivation on working for this cause and connecting with people that are caring, aware, generous, and sincerely up for scalable change and impact. Hoping that peace and trust making in the 21st century will be perceived and experienced as: a small step for each of us and a big one for humanity. Peace, is just the start. Let\'s live and leave that as a legacy with our Art of Peace, and focus on healing this planet and those living on it. I believe in the greatness of humanity; and I need, and want humanity to believe in itself too.',
 	},
 	{
 		name: 'Daniel',
-		designation: 'Human; biologist & artist',
+		designation: 'Researcher, organizer, and artist',
 		text: 'aworldpeace is an inspiring project that invites all to reflect and engage. The pursuit of peace is an infinite game, one we must always approach with the tools at hand. Today, those tools include online communication and blockchain technology. So it is appropriate and meaningful that we can collaborate on projects like aworldpeace: forming bottom-up networks of consent, respect, and peace (we hope).',
 	}
 ];

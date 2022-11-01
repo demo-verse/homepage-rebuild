@@ -20,10 +20,10 @@ function HeaderRight() {
           ></iframe> */}
  <img
               src="https://i.imgur.com/mp0bo76.png"
-              width={"80%"}
+              width={"90%"}
               alt="logo"
             ></img>
-<br></br>
+{/* <br></br>
           <br></br>
       
           <iframe
@@ -39,7 +39,7 @@ function HeaderRight() {
             You can also listen to this whole page
           </i>
           <hr style={{ width: "80%" }}></hr>
-          <br></br>
+          <br></br> */}
 		
 		  <p>
        

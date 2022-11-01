@@ -176,9 +176,7 @@ Here is how and what it feels like for peacemakers, who have so far experienced 
             century, where people are able to require peacemaking with all other
             countries from politicians and parties of their choice, and demand
             that included political agendas and electoral promises, hence at the
-            intentions and then in deeds.
-            <br></br>
-            Otherwise, people would express a non-intest for voting for those,
+            intentions and then in deeds. <strong>Otherwise</strong> , people would express a non-intest for voting for those parties proactively,
             before elections.
             <br></br>
             <br></br>

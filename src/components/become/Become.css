@@ -43,7 +43,7 @@
 
 .become .become-content .become-text-left   p {
 	font-size: 18px;
-	color: rgb(var(--text-color-2));
+	color: rgb(var(--text-color-1));
 	margin-bottom: 20px;
 	line-height: 24px;
 }
