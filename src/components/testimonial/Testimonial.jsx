@@ -125,8 +125,8 @@ Here is how and what it feels like for peacemakers, who have so far experienced 
           <p>
             We'd like to change that status-quo and untie a historical knot;
             from now on, our states and people in executive power in governance,
-            that will receive respect from us, as they express and commit their
-            intentions and deeds on peacemaking with other states in the world.
+            shall be prepared for receiving respect from us, as they express and commit their
+            intentions and deeds on peacemaking with other states in the world. Of course, cautiously, with conditionals, so their reflections would not jeopardize security in the first place.
             <br></br>
             <br></br>
             While condemning an agressor, undermining each other is a fallacy.
