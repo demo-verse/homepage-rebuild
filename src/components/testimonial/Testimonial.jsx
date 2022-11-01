@@ -169,13 +169,12 @@ Here is how and what it feels like for peacemakers, who have so far experienced 
             <br></br>Hereby, expect <strong>Expressions of Demand</strong> and
             Demand-aware Framework we are about to introduce later this month;
             to catalyse this whole peaceful flow even more effectively, with a
-            political dimension bringing into the scene.
+            political dimension intended to be brought into the scene.
             <br></br>
             <br></br>
-            We are imagining a proactive electorship paradigm, for the 21st
-            century, where people are able to require peacemaking with all other
-            countries from politicians and parties of their choice, and demand
-            that included political agendas and electoral promises, hence at the
+            We are imagining a proactive electorship paradigm, where people are able to require peacemaking with all other
+            countries from the politicians and parties of their choice; and demand
+            that policies being included in future political agendas and electoral promises, reflecting the common will at the
             intentions and then in deeds. <strong>Otherwise</strong> , people would express a non-intest for voting for those parties proactively,
             before elections.
             <br></br>
