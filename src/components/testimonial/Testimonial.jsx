@@ -34,12 +34,12 @@ function Testimonial({ design, circles, buttons }) {
             World Peace?
           </h2>
           <p>
-         
-          Here, we are introducing a new human right, and starting a progressive
-          decentralization and peace-orientation in diplomacy; along with a
-          demand-aware, proactive electorship paradigm,
-          for the 21st century.
-       <br></br><br></br>
+            Here, we are introducing a new human right, and starting a
+            progressive decentralization and peace-orientation in diplomacy;
+            along with a demand-aware, proactive electorship paradigm, for the
+            21st century.
+            <br></br>
+            <br></br>
             So far, this is how we have imagined, and proposed as a solution,{" "}
             <a
               href="https://miro.com/app/board/uXjVOX94E5k=/?share_link_id=267054985896"
@@ -50,10 +50,12 @@ function Testimonial({ design, circles, buttons }) {
             </a>{" "}
             ; that evolved since January, while there was a brutal war out
             there, well you know about that already.
-            
+            <br></br>            <br></br>
+
+Here is how and what it feels like for peacemakers, who have so far experienced and empowered this egalitarian, state of the art notions and efforts, with their peaceful, wise and free beings:  
+
           </p>
           <br></br>
-
           <div className="testimonial-content">
             <div className="testimonial-design">
               {circles}
@@ -110,7 +112,7 @@ function Testimonial({ design, circles, buttons }) {
             of peace treaties; traditionally and naturally, by delegation or
             inheritance of power, have been the ones with highest capacity of
             violence; whether use that hard power in an offensive manner or not,
-            or not even not use that, at all.
+            or not even use that, at all.
             <br></br>
             <br></br>
             However, the majority of citizens, worldwide, impacted by conflicts;
@@ -127,30 +129,70 @@ function Testimonial({ design, circles, buttons }) {
             intentions and deeds on peacemaking with other states in the world.
             <br></br>
             <br></br>
-            It is clear that, condemning an agressor, while undermining each
-            other is the fallacy, if not mockery. 
+            While condemning an agressor, undermining each other is a fallacy.
+            On that regard, we'd like to implement whatever it takes, to remove
+            the perception of threat between any states in the world, something
+            like the member countries of the European Union, and their citizens
+            experiencing since decades. We need to scale that notion of EU to a
+            global level.
+            <br></br>
+            <br></br>A peaceful unity is what that is: a border and threat free,
+            space-time, assured by intentions and deeds.
+            <br></br> <br></br>
+            On the other hand, peace is something to experience and sustain
+            without the risk of political opt-outs.
+            <br></br>
+            It is a universal and unconditional basic experience, cannot be
+            limited within alliances, nor become luxury.
+            <br></br> <br></br>
+            So, secure all, equally. Peace and security is quite together,
+            however, what we want is to separate violence and power.
+            <br></br> <br></br>
+            Ones expecting to benefit from armament races, polarisation, and in
+            a strong belief in sustaining security and cooperation through hard
+            power and trade mostly and maybe only;
+            <strong>
+              <i>
+                we have found your lack of creativity and wisdom, disturbing..
+              </i>
+            </strong>
             <br></br>
             <br></br>
-            However, it is certainly not the
-            best practice. On that regard, we'd like to scale the non-perception
-            of threat notion that members of European Union sharing.
+            First make peace between each other, then the impact will be way
+            more than any resolutions that became symbolic.
             <br></br>
             <br></br>
-            Ones expecting to grasp armament race, and prepare for engaging any other new wars and conflicts, or give reasons for potential agressors to invest their citizens' taxes for all that;
-            and endanger lives of people and all; <strong><i>we have found your lack of creativity and wisdom, disturbing..</i></strong>
+            That's why, a mutual assured regeneration, by citizens/world
+            residents to all, will begin just like this, on web3/blockcain. So
+            it is undeniable and cannot be altered or destroyed.
+            <br></br>
+            <br></br>Hereby, expect <strong>Expressions of Demand</strong> and
+            Demand-aware Framework we are about to introduce later this month;
+            to catalyse this whole peaceful flow even more effectively, with a
+            political dimension bringing into the scene.
             <br></br>
             <br></br>
-            Expect <strong>Expressions of Demand</strong> and Demand-aware
-            Framework we are about to introduce later this month, to catalyse
-            this whole thing even more, effectively, with a political dimension. 
+            We are imagining a proactive electorship paradigm, for the 21st
+            century, where people are able to require peacemaking with all other
+            countries from politicians and parties of their choice, and demand
+            that included political agendas and electoral promises, hence at the
+            intentions and then in deeds.
+            <br></br>
+            Otherwise, people would express a non-intest for voting for those,
+            before elections.
             <br></br>
             <br></br>
-            There will be proactive electorship paradigm, for the 21st century, and people will be able to require peacemaking to go into political agendas and electoral promises of political parties, or declare a non-intest of voting for them. 
+            Expressions of Demand will most probably part of/attached to
+            Expressions of Peace, on a setting level or per expression,
+            optionally.
+            
+            <br></br>
+            <br></br>  
+            It is to be a future-manifesting, opinionated era of electorship/voting.
             <br></br>
             <br></br>
             That'll be one of those cool campaigns we'll start. Be ready.
           </p>
-         
         </div>
       </div>
     </div>

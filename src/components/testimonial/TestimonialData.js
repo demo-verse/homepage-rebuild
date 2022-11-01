@@ -2,6 +2,7 @@ import Aloysious from '../../images/testimonials/Aloysious.jpeg'
 // import Isaac from '../../images/testimonials/Isaac.png' // To be added
 import Tolgay from '../../images/testimonials/Tolgay.png'
 import Rosca from '../../images/testimonials/Rosca.jpg'
+import Daniel from '../../images/testimonials/Daniel.png'
 
 
 
@@ -18,6 +19,9 @@ brand: Rosca
 
 	{
 		brand: Tolgay,
+	},
+	{
+		brand: Daniel,
 	}
 ];
 
@@ -41,6 +45,11 @@ export const clientReviews = [
 	{
 		name: 'Abbas Tolgay',
 		designation: 'Peacemaker, techie artist',
-		text: 'I have found great motivation on working for this cause and connecting with people that are caring, aware, generous, and sincerely up for scalable change and impact. Hoping that peace and trust making in the 21st century will be perceived exactly: a small step for each of us and a big one for humanity. Peace, is just the start. Let\'s live and leave that as a legacy with our Art of Peace, and focus on healing this planet and those living on it. I believe in humanity, and I need, and want humanity to believe in itself too.',
+		text: 'I have found great motivation on working for this cause and connecting with people that are caring, aware, generous, and sincerely up for scalable change and impact. Hoping that peace and trust making in the 21st century will be perceived and experienced as: a small step for each of us and a big one for humanity. Peace, is just the start. Let\'s live and leave that as a legacy with our Art of Peace, and focus on healing this planet and those living on it. I believe in the greatness of humanity; and I need, and want humanity to believe in itself too.',
 	},
+	{
+		name: 'Daniel',
+		designation: 'Human; biologist & artist',
+		text: 'aworldpeace is an inspiring project that invites all to reflect and engage. The pursuit of peace is an infinite game, one we must always approach with the tools at hand. Today, those tools include online communication and blockchain technology. So it is appropriate and meaningful that we can collaborate on projects like aworldpeace: forming bottom-up networks of consent, respect, and peace (we hope).',
+	}
 ];
