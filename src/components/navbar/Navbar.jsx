@@ -60,7 +60,7 @@ function Navbar({ button }) {
           >
             <Button
               text1="Circles of Peace"
-              text2="for +Impact"
+              text2=""
               // onClick={() => alert("You clicked button")}
             />
           </a>

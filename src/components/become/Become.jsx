@@ -1,7 +1,5 @@
 import "./Become.css";
-// import aNewRight from "../../images/our_right_to_make_peace_and_trust.png";
 import { forwardRef } from "react";
-import { Link } from "react-router-dom";
 
 const Become = forwardRef(({ design, circles, circlesOfPeaceButton }, ref) => {
   return (
@@ -236,13 +234,12 @@ const Become = forwardRef(({ design, circles, circlesOfPeaceButton }, ref) => {
                     <br></br> <br></br>
                     <strong>& bests, in peace</strong>
                   </p>
-                  <Link to="/">
                     <img
                       src="https://i.imgur.com/LXsfmxO.png"
                       width={"62px"}
                       alt="logo"
                     ></img>
-                  </Link>
+                 
                 </div>
               </div>
               {/* <img src={aNewRight} alt="mobile" /> */}

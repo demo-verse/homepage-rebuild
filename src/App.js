@@ -11,6 +11,8 @@ import {
   Services,
   Testimonial,
 } from "./components";
+
+import { FaKeybase, FaDiscord } from "react-icons/fa";
 import { BrowserRouter as Router } from "react-router-dom";
 import { useRef } from "react";
 
@@ -38,26 +40,22 @@ function App() {
 
       <Testimonial circles={<Circles />} />
 
-
-     
-
-
       <Services
         ref={servicesRef}
         buttons={[
           <a
             href="https://discord.gg/sqjdyCWNAR"
-            target={"_blank"}
+            target="_blank"
             rel="noreferrer"
           >
-            Discord
+            <FaDiscord className="discord-icon" />
           </a>,
           <a
             href="https://keybase.io/team/peacemakers"
             target={"_blank"}
             rel="noreferrer"
           >
-            Keybase
+            <FaKeybase className="keybase-icon" />
           </a>,
           <a
             href="https://app.orbis.club/group/kjzl6cwe1jw147jurloxh41cderszpog6t2bho8kwoa90jfvj9dk0z930oykndk"
@@ -85,13 +83,11 @@ function App() {
         //     (click to see the details @ github)
         //   </a>
 
-       
         // }
       />
 
-<Become
+      <Become
         ref={becomeRef}
-        
         design={
           <Design
             style={{
@@ -113,7 +109,6 @@ function App() {
           />
         }
       />
-
 
       <Footer
         buttons={[

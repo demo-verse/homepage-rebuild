@@ -247,7 +247,7 @@ const Services = forwardRef(({ button, buttons }, ref) => {
             education, collaboration, demonstration and resolutions on such
             spaces would be happening.
           </p>
-          <br></br>
+          {/* <br></br>
           <br></br>
           <iframe
             width="100%"
@@ -257,7 +257,7 @@ const Services = forwardRef(({ button, buttons }, ref) => {
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
-          ></iframe>{" "}
+          ></iframe>{" "} */}
           <br></br> <br></br>
           <h2>Good news, peacemaker!</h2>
           <br></br>
@@ -306,6 +306,13 @@ const Services = forwardRef(({ button, buttons }, ref) => {
             gather.town
           </a>{" "}
         </p>{" "}
+        <br></br>
+
+        Just recently, we have imagined that, in one of those spaces and recorded those moments,
+        {" "}<a href="https://www.youtube.com/embed/Ek7AvWng7J8" target={"_blank"} rel="noreferrer">
+        just like this.
+          </a>{" "}
+        <br></br>
         <br></br>
         <p>
           Hopefully, will be partnering with and be sponsored by those, and use

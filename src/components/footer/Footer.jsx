@@ -23,9 +23,9 @@ function footer({ buttons }) {
             <p>
               Nothing to copyright. <br></br>
               <strong>
-                however, intellectual rights, humbly self-acknowledged,
+                However, intellectual rights, humbly self-acknowledged,
                 <br></br>
-                would be even cooler if we haven't mentioned at all.
+                would be even cooler if we haven't mentioned this at all.
               </strong>
               <br></br> <br></br>
               We will help you to start a World Peace project if you needed
