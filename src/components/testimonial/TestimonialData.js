@@ -49,7 +49,7 @@ export const clientReviews = [
 	},
 	{
 		name: 'A. Tolgay',
-		designation: 'Peacemaker, Techie-artist, Impact designer',
+		designation: 'Peacemaker, Techie-artist, +Impact designer and scaler',
 		text: 'I have found great motivation on working for this cause and connecting with people that are caring, aware, generous, and sincerely up for scalable change and impact. Hoping that peace and trust making in the 21st century will be perceived and experienced as: a small step for each of us and a big one for humanity. Peace, is just the start. Let\'s live and leave that as a legacy with our Art of Peace, and focus on healing this planet and those living on it. I believe in the greatness of humanity; and I need, and want humanity to believe in itself too.',
 	},
 	{
@@ -59,7 +59,7 @@ export const clientReviews = [
 	},
 	{
 		name: 'Joanna',
-		designation: 'Hacker, Scientist, Politician, Social Arquitect',
+		designation: 'Peacemaker, Hacker, Scientist, Politician, Lightowrker, Chief social arquitect',
 		text: 'I imagine a world where we all win. We are transitioning from the era of the American Dream to the one of The Planetary Dream. A new Social Operating System is emerging and giving birth to a new era of peace.  Let’s co-create our great story together. Is time to own our power to love  we all have the right to have a life of full love, joy, peace and light.',
 	}
 ];
