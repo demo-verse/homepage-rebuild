@@ -52,12 +52,31 @@ function Testimonial({ design, circles, buttons }) {
             >
               a Flow of Peace
             </a>{" "}
-            ; that evolved since January, while there was a brutal war out
+            ; which evolved since January, while there was a brutal war out
             there, well you know about that already.
-            <br></br> <br></br>
+            <br></br>                         <br></br> <br></br>
+<div style={{background: "black", }}>
+
+<div style={{padding: "22px"}}>
+<iframe
+title="Imagination canvas"
+              width="100%"
+              height="540"
+              src="https://miro.com/app/live-embed/uXjVOX94E5k=/?moveToViewport=-684614,378837,440785,230034&embedId=985083596001"
+              frameBorder="0"
+              scrolling="no"
+              allowFullScreen
+            ></iframe>
+</div>
+</div>
+                        <br></br>
+                        <br></br> <br></br>
+
+
             This is how and what it feels like for peacemakers, who have so far
-            encouraged and empowered and most importantly, experienced together, this egalitarian, state of the art notions
-            and efforts, with their peaceful, wise and free beings:
+            encouraged, empowered and most importantly, experienced
+            this egalitarian, state of the art notions and efforts, with their
+            peaceful, wise and free beings:
           </p>
           <br></br>
           <div className="testimonial-content">
@@ -115,7 +134,9 @@ function Testimonial({ design, circles, buttons }) {
             </div>
           </div>
           <br></br>
+          <h2>Reasonings, critiques and hopes</h2>
           <p>
+
             Historically, we have been observing this: parties opts-in and out
             of peace treaties; traditionally and naturally, by delegation or
             inheritance of power, have been the ones with highest capacity of

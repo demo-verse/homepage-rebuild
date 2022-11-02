@@ -19,8 +19,11 @@ const Services = forwardRef(({ button, buttons }, ref) => {
         </p>
         <br></br>
         <p>
-         <i> ^ This human right, concept, perspective and notion shall be a canvas;
-          on which our kind making Art of Peace, together.</i>
+          <i>
+            {" "}
+            ^ This human right, concept, perspective and notion shall be a
+            canvas; on which our kind making Art of Peace, together.
+          </i>
         </p>
         <p>
           <br></br>
@@ -31,11 +34,12 @@ const Services = forwardRef(({ button, buttons }, ref) => {
           <br></br>
           <br></br>
           Feel welcomed {"&"} invited to bring your perspective, empowered and
-          empowering being, those co-existing communities of your
-          choice: :{" "}
+          empowering being, those co-existing communities of your choice: :{" "}
         </p>
         <br></br>
-        <br></br> {buttons[0]}   {buttons[1]}<br></br> <br></br> @ {buttons[2]} <br></br><br></br>@ {buttons[3]}
+        <br></br> {buttons[0]} {buttons[1]}
+        <br></br> <br></br> @ {buttons[2]} <br></br>
+        <br></br>@ {buttons[3]}
         <br></br>
         <br></br> <br></br>
         <br></br>
@@ -74,12 +78,10 @@ const Services = forwardRef(({ button, buttons }, ref) => {
           we'd like transparency, resilience and especially undeniability on the
           making of a World Peace, through equality and equity; more
           specifically, having responsibility and stakes in the remote, as well
-          as local scope, in an unstoppable fashion. 
+          as local scope, in an unstoppable fashion.
           <br></br>
           <br></br>
-
-
-          Let is flo~ let it be.
+          Let it flo~ let it be.
           <br></br>
           <br></br> That{"'"}s why, blockchain is at the core of our solution
           design. Yet, this whole thing could be done with pencils and papers as
@@ -215,14 +217,17 @@ const Services = forwardRef(({ button, buttons }, ref) => {
           <br></br>
           <br></br>One more, thing to mention here, is that goals #5: Gender
           Equality and #10: Reducing inequalities between and within countries,
-          are quite relevant for us, as we have introduced a Peace, by Equality
+          are quite relevant for us, as we have introduced a World Peace by equality
           approach between people in the first place.
           <br></br>
           <br></br> Especially on gender equality, including people without
           official entitlements on signing those peace treaties between
           countries, is a balancer action.
           <br></br>
-          <br></br>How so? As of 19 September 2022,{" "}
+          <br></br>How so?
+          <br></br>
+          <br></br>
+          As of 19 September 2022,{" "}
           <a
             href="https://www.unwomen.org/en/what-we-do/leadership-and-political-participation/facts-and-figures"
             target={"_blank"}
@@ -231,26 +236,31 @@ const Services = forwardRef(({ button, buttons }, ref) => {
             <strong>only </strong> 13 women
           </a>{" "}
           {/* (50.4%) and 496 are women (49.6%) */}
-          are in executive government positions, aka. heads of their states,
-          roughly conveyed. Considering 193 member states in the United Nations,
-          meaning women is represented as low as 6-7%.
-          <br></br> <br></br> That might be a reason why there have not been an
-          ultimate consensus around peace in our history, however, would like to
-          increase women's participation for sealing those treaties by
-          decentralization of diplomacy, just like this.
+          are in executive government positions as leaders of their
+          countries/states.
+          <br></br>
+          <br></br>
+          Considering 193 member states in the United Nations, women in
+          executive positions are represented as low as 6-7%, and that, sadly,
+          also goes for the official peacemaking/sealing activities of course.
           <br></br> <br></br>
-          So that goes almost 50%/50% between genders that way, for all, without
-          having to wait more years on women's inclusion via official
-          entitlement to be the signers as finalisers, sovereign states.
+          That might be a reason why there has not been an ultimate consensus
+          around peace in our history. However, we would like to increase
+          women's participation for sealing those treaties by decentralization
+          of diplomacy, with our commitment to provide equality in peacemaking.
+          <br></br> <br></br>
+          So that goes almost 50%/50% between genders with that egalitarian way, 
+          without having to wait more years on women's inclusion as them, official
+          entitled to be the signers of a World Peace treaty.
           <br></br>
           {/* <img src="https://i.imgur.com/oB7SZAs.png" width={"100%"} alt="mobile" />
           <br></br> <br></br> */}
           <br></br>
           <p>
-            Below is an environment for Circles for Impact @ welo.space, and is
-            recorded when we were co-imagining and experiening how would
+            Recently we have given a try to a cool virtual environment setting for Circles for Impact @ welo.space, and is
+            recorded when we were co-imagining how impact generation would be, while experiencing that tool's capacities. how would
             education, collaboration, demonstration and resolutions on such
-            spaces would be happening.
+            spaces would be happening is always open for co-imagination, let's bring in the best communication, coordination and collaboration tools out there.
           </p>
           {/* <br></br>
           <br></br>
@@ -312,11 +322,15 @@ const Services = forwardRef(({ button, buttons }, ref) => {
           </a>{" "}
         </p>{" "}
         <br></br>
-
-        Just recently, we have imagined that, in one of those spaces and recorded those moments,
-        {" "}<a href="https://www.youtube.com/embed/Ek7AvWng7J8" target={"_blank"} rel="noreferrer">
-        just like this.
-          </a>{" "}
+        Just recently, we have imagined that, in one of those spaces and
+        recorded those moments,{" "}
+        <a
+          href="https://www.youtube.com/embed/Ek7AvWng7J8"
+          target={"_blank"}
+          rel="noreferrer"
+        >
+          just like this.
+        </a>{" "}
         <br></br>
         <br></br>
         <p>
@@ -359,8 +373,8 @@ const Services = forwardRef(({ button, buttons }, ref) => {
         </p>
         <p>
           <br></br>
-          Well, we'd like to be persistent about taking{" "}
-          <strong>intentions over impressions</strong> along the way.. <br></br>
+          Well, we'd like to have{" "}
+          <strong>a strong stand around taking intentions over impressions, right from the beginning of this journey.</strong>  <br></br>
           <br></br>
           <br></br>
           <br></br>
