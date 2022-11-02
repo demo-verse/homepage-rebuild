@@ -4,6 +4,7 @@ import Tolgay from '../../images/testimonials/Tolgay.png'
 import Rosca from '../../images/testimonials/Rosca.jpg'
 import Daniel from '../../images/testimonials/Daniel.png'
 
+import Joanna from '../../images/testimonials/Joanna.jpg'
 
 
 export const clientImages = [
@@ -21,14 +22,18 @@ brand: Rosca
 		brand: Tolgay,
 	},
 	{
+		brand: Joanna,
+	},
+	{
 		brand: Daniel,
-	}
+	},
+	
 ];
 
 export const clientReviews = [
 	{
 		name: 'Aloysious',
-		designation: 'Queer, Polyamorous Autigender, Anti-=war veteran of color',
+		designation: 'Queer, Polyamorous Autigender, Anti-war Veteran of Color',
 		text: 'I imagine a world where people do not have to compete for survival but rather share their individual to collective resources. The only "work" people do is by choice / out of necessity and care ..an example being working on ones own garden with the intentions to share the fruits of labor with others. I want to live in a world filled with the energy of #mutualism as opposed to c[r]apitalism and consumerism. I want to save the planet from destruction and GrandMother Moon from colonization.',
 	},
 	// {
@@ -44,12 +49,17 @@ export const clientReviews = [
 	},
 	{
 		name: 'A. Tolgay',
-		designation: 'Peacemaker, techie artist',
+		designation: 'Peacemaker, Techie-artist, Impact designer',
 		text: 'I have found great motivation on working for this cause and connecting with people that are caring, aware, generous, and sincerely up for scalable change and impact. Hoping that peace and trust making in the 21st century will be perceived and experienced as: a small step for each of us and a big one for humanity. Peace, is just the start. Let\'s live and leave that as a legacy with our Art of Peace, and focus on healing this planet and those living on it. I believe in the greatness of humanity; and I need, and want humanity to believe in itself too.',
 	},
 	{
 		name: 'Daniel',
 		designation: 'Researcher, organizer, and artist',
 		text: 'aworldpeace is an inspiring project that invites all to reflect and engage. The pursuit of peace is an infinite game, one we must always approach with the tools at hand. Today, those tools include online communication and blockchain technology. So it is appropriate and meaningful that we can collaborate on projects like aworldpeace: forming bottom-up networks of consent, respect, and peace (we hope).',
+	},
+	{
+		name: 'Joanna',
+		designation: 'Hacker, Scientist, Politician, Social Arquitect',
+		text: 'I imagine a world where we all win. We are transitioning from the era of the American Dream to the one of The Planetary Dream. A new Social Operating System is emerging and giving birth to a new era of peace.  Let’s co-create our great story together. Is time to own our power to love  we all have the right to have a life of full love, joy, peace and light.',
 	}
 ];

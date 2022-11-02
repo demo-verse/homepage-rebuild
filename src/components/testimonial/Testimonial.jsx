@@ -60,7 +60,7 @@ Here is how and what it feels like for peacemakers, who have so far experienced 
             <div className="testimonial-design">
               {circles}
               <div className="testimonial-boxs">
-                {clientImages?.slice(0, 4).map((client, index) => (
+                {clientImages?.slice(0, clientImages.length).map((client, index) => (
                   <div key={index} className="testimonial-box">
                     <img src={client.brand} alt="brands" />
                   </div>
@@ -68,7 +68,7 @@ Here is how and what it feels like for peacemakers, who have so far experienced 
               </div>
             </div>
             <div className="testimonial-reviews">
-              {clientReviews?.slice(0, 4).map((review, index) => (
+              {clientReviews?.slice(0, clientImages.length).map((review, index) => (
                 <div
                   key={index}
                   className={`testimonial-slide ${
@@ -147,7 +147,9 @@ Here is how and what it feels like for peacemakers, who have so far experienced 
             <br></br> <br></br>
             So, secure all, equally. Peace and security is quite together,
             however, what we want is to separate violence and power.
-            <br></br> <br></br>
+
+            {/* checkitout later */}
+            {/* <br></br> <br></br>
             Ones expecting to benefit from armament races, polarisation, and in
             a strong belief in sustaining security and cooperation through hard
             power and trade mostly and maybe only;
@@ -188,7 +190,7 @@ Here is how and what it feels like for peacemakers, who have so far experienced 
             It is to be a future-manifesting, opinionated era of electorship/voting.
             <br></br>
             <br></br>
-            That'll be one of those cool campaigns we'll start. Be ready.
+            That'll be one of those cool campaigns we'll start. Be ready. */}
           </p>
         </div>
       </div>
