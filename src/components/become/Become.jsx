@@ -181,7 +181,7 @@ const Become = forwardRef(({ design, circles, circlesOfPeaceButton }, ref) => {
                     for example, in the body part of the content section, you
                     would see how your post/expression would become public. It
                     will not be kept on a private server. It is open to
-                    everyone. Yes, we've got have anything to hide here,
+                    everyone. Yes, we've got nothing to hide here,
                     literally, the stage is ours now, sincerely and peacefully.
                     <br></br>
                     <br></br>

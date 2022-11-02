@@ -19,23 +19,23 @@ const Services = forwardRef(({ button, buttons }, ref) => {
         </p>
         <br></br>
         <p>
-          This human right, concept, perspective and notion shall be a canvas;
-          on which our kind making Art of Peace, together.
+         <i> ^ This human right, concept, perspective and notion shall be a canvas;
+          on which our kind making Art of Peace, together.</i>
         </p>
         <p>
           <br></br>
           <strong>
             {" "}
-            Hey there, peacemaker! Start, a World Peace ~ express yourself!
+            Hey there, Peacemaker! Start, a World Peace ~ express yourself!
           </strong>
           <br></br>
           <br></br>
           Feel welcomed {"&"} invited to bring your perspective, empowered and
-          empowering being, to, initially those co-existing communities of your
+          empowering being, those co-existing communities of your
           choice: :{" "}
         </p>
         <br></br>
-        <br></br>@ {buttons[0]} @ {buttons[1]} @ {buttons[2]} @ {buttons[3]}
+        <br></br> {buttons[0]}   {buttons[1]}<br></br> <br></br> @ {buttons[2]} <br></br><br></br>@ {buttons[3]}
         <br></br>
         <br></br> <br></br>
         <br></br>
@@ -73,8 +73,13 @@ const Services = forwardRef(({ button, buttons }, ref) => {
           </a>{" "}
           we'd like transparency, resilience and especially undeniability on the
           making of a World Peace, through equality and equity; more
-          specifically, having responsibility and stakes in the remotes, as well
-          as locally in an unstoppable fashion.
+          specifically, having responsibility and stakes in the remote, as well
+          as local scope, in an unstoppable fashion. 
+          <br></br>
+          <br></br>
+
+
+          Let is flo~ let it be.
           <br></br>
           <br></br> That{"'"}s why, blockchain is at the core of our solution
           design. Yet, this whole thing could be done with pencils and papers as

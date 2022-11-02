@@ -24,6 +24,28 @@
 	border-radius: 50%;
 }
 
+.discord-icon {
+	font-size: 30px;
+	margin: 20px 5px;
+	color: "#9656ce";
+	cursor: pointer;
+}
+
+
+.keybase-icon {
+	font-size: 30px;
+	margin: 20px 5px;
+	color: "#3CB371";
+	cursor: pointer;
+}
+
+.keybase-icon-footer {
+	font-size: 20px;
+	margin: 20px 5px;
+	color: "#3CB371";
+	cursor: pointer;
+}
+
 .footer-bottom .social .social-icon {
 	font-size: 20px;
 	margin: 20px 5px;

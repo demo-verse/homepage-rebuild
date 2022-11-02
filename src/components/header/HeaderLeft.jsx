@@ -17,18 +17,24 @@ function HeaderLeft({ servicesRef }) {
           Let's start a World Peace, and search power somewhere new: in the
           wisdom and conscience of a great civilization;{" "}
           <strong>humanity.</strong>
+        
+          
         </p>
 
-       
-
         <p>
-        
           It{"'"}s time to separate power and violence so well,{" "}
-          <strong>with our Art of Peace.</strong> {" "} <br></br><br></br>
-            This project is our restoration, one that is peaceful and
-            movemental. Now is the new future, and{" "}
-            <strong> we are the power.</strong>
-         
+          <strong>with our Art of Peace.</strong>{" "}Now is the new future, and <strong> we are the power. </strong><br></br>
+          <br></br>
+          
+          <iframe
+          title=" Text2speech for aworldpeace.org @ November 2nd, 2022 "
+            width="100%"
+            height="80"
+            scrolling="no"
+            frameborder="no"
+            allow="autoplay"
+            src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1374738547&color=%232a4d57&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+          ></iframe>
         </p>
 
         {/* <div className="learn-more">

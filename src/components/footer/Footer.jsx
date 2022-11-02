@@ -7,6 +7,7 @@ import {
   FaSoundcloud,
   FaInstagram,
   FaDiscord,
+  FaKeybase
 } from "react-icons/fa";
 import "./Footer.css";
 
@@ -156,6 +157,14 @@ function footer({ buttons }) {
                 >
                   <FaDiscord className="social-icon" />
                 </a>
+
+                <a
+            href="https://keybase.io/team/peacemakers"
+            target={"_blank"}
+            rel="noreferrer"
+          >
+            <FaKeybase className="keybase-icon-footer" />
+          </a>
                 <a
                   href="https://github.com/demo-verse"
                   target="_blank"

@@ -34,6 +34,10 @@ function Testimonial({ design, circles, buttons }) {
             World Peace?
           </h2>
           <p>
+            This project is our restoration, one that is{" "}
+            <strong> peaceful</strong> and movemental.
+            <br></br>
+            <br></br>
             Here, we are introducing a new human right, and starting a
             progressive decentralization and peace-orientation in diplomacy;
             along with a demand-aware, proactive electorship paradigm, for the
@@ -50,43 +54,47 @@ function Testimonial({ design, circles, buttons }) {
             </a>{" "}
             ; that evolved since January, while there was a brutal war out
             there, well you know about that already.
-            <br></br>            <br></br>
-
-Here is how and what it feels like for peacemakers, who have so far experienced and empowered this egalitarian, state of the art notions and efforts, with their peaceful, wise and free beings:  
-
+            <br></br> <br></br>
+            This is how and what it feels like for peacemakers, who have so far
+            encouraged and empowered and most importantly, experienced together, this egalitarian, state of the art notions
+            and efforts, with their peaceful, wise and free beings:
           </p>
           <br></br>
           <div className="testimonial-content">
             <div className="testimonial-design">
               {circles}
               <div className="testimonial-boxs">
-                {clientImages?.slice(0, clientImages.length).map((client, index) => (
-                  <div key={index} className="testimonial-box">
-                    <img src={client.brand} alt="brands" />
-                  </div>
-                ))}
+                {clientImages
+                  ?.slice(0, clientImages.length)
+                  .map((client, index) => (
+                    <div key={index} className="testimonial-box">
+                      <img src={client.brand} alt="brands" />
+                    </div>
+                  ))}
               </div>
             </div>
             <div className="testimonial-reviews">
-              {clientReviews?.slice(0, clientImages.length).map((review, index) => (
-                <div
-                  key={index}
-                  className={`testimonial-slide ${
-                    currentSlide === index ? "active" : ""
-                  }`}
-                  style={{
-                    left: `${position}%`,
-                  }}
-                >
-                  <FaQuoteLeft className="testimonial-quote" />
-                  <p className="quote-text">{review.text}</p>
-                  <div className="author">
-                    <h3>{review.name}</h3>
-                    <small>
-                      <em>{review.designation}</em>
-                    </small>
-                  </div>
-                  {/* {index >= 0 && clientReviews.length - 1 !== index ? (
+              {clientReviews
+                ?.slice(0, clientImages.length)
+                .map((review, index) => (
+                  <div
+                    key={index}
+                    className={`testimonial-slide ${
+                      currentSlide === index ? "active" : ""
+                    }`}
+                    style={{
+                      left: `${position}%`,
+                    }}
+                  >
+                    <FaQuoteLeft className="testimonial-quote" />
+                    <p className="quote-text">{review.text}</p>
+                    <div className="author">
+                      <h3>{review.name}</h3>
+                      <small>
+                        <em>{review.designation}</em>
+                      </small>
+                    </div>
+                    {/* {index >= 0 && clientReviews.length - 1 !== index ? (
                     <FaArrowAltCircleLeft
                       className="quote-arrow left"
                       onClick={nextSlide}
@@ -102,8 +110,8 @@ Here is how and what it feels like for peacemakers, who have so far experienced 
                   ) : (
                     ""
                   )} */}
-                </div>
-              ))}
+                  </div>
+                ))}
             </div>
           </div>
           <br></br>
@@ -125,8 +133,10 @@ Here is how and what it feels like for peacemakers, who have so far experienced 
           <p>
             We'd like to change that status-quo and untie a historical knot;
             from now on, our states and people in executive power in governance,
-            shall be prepared for receiving respect from us, as they express and commit their
-            intentions and deeds on peacemaking with other states in the world. Of course, cautiously, with conditionals, so their reflections would not jeopardize security in the first place.
+            shall be prepared for receiving respect from us, as they express and
+            commit their intentions and deeds on peacemaking with other states
+            in the world. Of course, cautiously, with conditionals, so their
+            reflections would not jeopardize security in the first place.
             <br></br>
             <br></br>
             While condemning an agressor, undermining each other is a fallacy.
@@ -147,7 +157,6 @@ Here is how and what it feels like for peacemakers, who have so far experienced 
             <br></br> <br></br>
             So, secure all, equally. Peace and security is quite together,
             however, what we want is to separate violence and power.
-
             {/* checkitout later */}
             {/* <br></br> <br></br>
             Ones expecting to benefit from armament races, polarisation, and in
