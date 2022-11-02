@@ -59,7 +59,7 @@ export const clientReviews = [
 	},
 	{
 		name: 'Joanna',
-		designation: 'Peacemaker, Hacker, Scientist, Politician, Lightowrker, Chief social arquitect',
+		designation: 'Peacemaker, Hacker, Scientist, Politician, Lightowrker, Chief Social Arquitect',
 		text: 'I imagine a world where we all win. We are transitioning from the era of the American Dream to the one of The Planetary Dream. A new Social Operating System is emerging and giving birth to a new era of peace.  Let’s co-create our great story together. Is time to own our power to love  we all have the right to have a life of full love, joy, peace and light.',
 	}
 ];
