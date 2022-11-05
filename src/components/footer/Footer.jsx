@@ -113,10 +113,10 @@ function footer({ buttons }) {
             which has been coined as{" "}
             <strong>"a metaverse for democracy/demonstrations".</strong>
             <br></br> <br></br>~~~~~~~~~~~~~~~ <br></br>
-            initiated by{" "}
+            {/* initiated by{" "}
             <a href="https://stateful.art" target={"_blank"} rel="noreferrer">
               stateful.art | start
-            </a>{" "}
+            </a>{" "} */}
             since then, we are dealing with our expressed feeling of urgency on
             this, <br></br> with no financial resource offered/received up to
             this date.

@@ -33,7 +33,10 @@ const Become = forwardRef(({ design, circles, circlesOfPeaceButton }, ref) => {
                     Apart from that, we humbly want to start something we call, Peace Economy and
                     its incentives that would catalyse the whole thing. 
                     
-                    If wars have industry, why peace would not have one, in its way? Blockchain can help on that sense, too. Well, that's pretty much how people mostly know this technology, relating with: 
+                    If wars have industry, why peace would not have one, in its way? Blockchain can help on that sense, too. 
+                    
+                    <br></br><br></br>
+                    Well, that's pretty much how people mostly know this technology, relating with: 
                     {" "}
                     <a
                       href="https://www.youtube.com/watch?v=-0kcet4aPpQ"
@@ -85,7 +88,7 @@ const Become = forwardRef(({ design, circles, circlesOfPeaceButton }, ref) => {
                     >
                       Expressions of Peace.{" "}
                     </a> {" "}
-                     since August 2022,made available on a blockchain test network:{" "}
+                     since August 2022, made available on a blockchain test network.{" "}
                      <br></br> <br></br>
 
                     {/* Now, it is good time to get{" "}

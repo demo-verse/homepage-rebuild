@@ -11,6 +11,9 @@ const Services = forwardRef(({ button, buttons }, ref) => {
           A new human right has born: <br></br>It{"'"}s all about standing equal
           on peace {"&"} trust making
         </h2>
+        <div className="peacemaking-is-our-right-too">
+          <img src="" alt="peacemaking is our right too.."></img>
+        </div>
         <p>
           "Everyone is free to be proactive, claim their equality and free will
           to act on peace and trust making; and be legitimate co-signer and
@@ -26,10 +29,13 @@ const Services = forwardRef(({ button, buttons }, ref) => {
           </i>
         </p>
         <p>
-          <br></br>
+         
           <strong>
             {" "}
-            Hey there, Peacemaker! Start, a World Peace ~ express yourself!
+            Hey there, Peacemaker!
+            <br></br>
+            <br></br>
+            Start, a World Peace ~ express yourself!
           </strong>
           <br></br>
           <br></br>
@@ -217,8 +223,8 @@ const Services = forwardRef(({ button, buttons }, ref) => {
           <br></br>
           <br></br>One more, thing to mention here, is that goals #5: Gender
           Equality and #10: Reducing inequalities between and within countries,
-          are quite relevant for us, as we have introduced a World Peace by equality
-          approach between people in the first place.
+          are quite relevant for us, as we have introduced a World Peace by
+          equality approach between people in the first place.
           <br></br>
           <br></br> Especially on gender equality, including people without
           official entitlements on signing those peace treaties between
@@ -249,18 +255,21 @@ const Services = forwardRef(({ button, buttons }, ref) => {
           women's participation for sealing those treaties by decentralization
           of diplomacy, with our commitment to provide equality in peacemaking.
           <br></br> <br></br>
-          So that goes almost 50%/50% between genders with that egalitarian way, 
-          without having to wait more years on women's inclusion as them, official
-          entitled to be the signers of a World Peace treaty.
+          So that goes almost 50%/50% between genders with that egalitarian way,
+          without having to wait more years on women's inclusion as them,
+          official entitled to be the signers of a World Peace treaty.
           <br></br>
           {/* <img src="https://i.imgur.com/oB7SZAs.png" width={"100%"} alt="mobile" />
           <br></br> <br></br> */}
           <br></br>
           <p>
-            Recently we have given a try to a cool virtual environment setting for Circles for Impact @ welo.space, and is
-            recorded when we were co-imagining how impact generation would be, while experiencing that tool's capacities. how would
-            education, collaboration, demonstration and resolutions on such
-            spaces would be happening is always open for co-imagination, let's bring in the best communication, coordination and collaboration tools out there.
+            Recently we have given a try to a cool virtual environment setting
+            for Circles for Impact @ welo.space, and is recorded when we were
+            co-imagining how impact generation would be, while experiencing that
+            tool's capacities. how would education, collaboration, demonstration
+            and resolutions on such spaces would be happening is always open for
+            co-imagination, let's bring in the best communication, coordination
+            and collaboration tools out there.
           </p>
           {/* <br></br>
           <br></br>
@@ -374,7 +383,11 @@ const Services = forwardRef(({ button, buttons }, ref) => {
         <p>
           <br></br>
           Well, we'd like to have{" "}
-          <strong>a strong stand around taking intentions over impressions, right from the beginning of this journey.</strong>  <br></br>
+          <strong>
+            a strong stand around taking intentions over impressions, right from
+            the beginning of this journey.
+          </strong>{" "}
+          <br></br>
           <br></br>
           <br></br>
           <br></br>

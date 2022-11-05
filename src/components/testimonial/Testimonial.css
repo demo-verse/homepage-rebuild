@@ -17,6 +17,7 @@
   position: relative;
 }
 
+
 .testimonial h2:before {
   content: "x";
   position: absolute;
@@ -31,6 +32,7 @@
   align-items: center;
   justify-content: space-between;
   position: relative;
+  
 }
 
 .testimonial .testimonial-content .testimonial-design {
@@ -46,7 +48,7 @@
   grid-template-columns: repeat(2, 1fr);
   gap: 00px;
   text-align: center;
-  margin: 0 auto;
+  margin: auto auto;
 }
 
 .testimonial
@@ -155,11 +157,12 @@
   cursor: pointer;
 }
 
+
 .testimonial .testimonial-content .testimonial-reviews .quote-arrow.left {
   margin-right: 10px;
 }
 
-@media only screen and (max-width: 480px) and (max-width: 480px) {
+@media only screen and (max-width: 480px) {
   .testimonial-bg .design {
     display: none;
   }
@@ -168,6 +171,7 @@
   }
   .testimonial .testimonial-content .testimonial-design .testimonial-boxs {
     width: 100%;
+
   }
 
   .testimonial .testimonial-content .testimonial-reviews p.quote-text {
