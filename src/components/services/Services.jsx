@@ -1,7 +1,8 @@
 import "./Services.css";
 import { forwardRef } from "react";
 import Button from "../button/Button";
-import SocialInterpretations from "../../images/social_interaction_to_interpretations.png";
+import PeacemakingOurRightToo from "../../images/peacemaking-is-your-right-too.png"
+import InterpretationofSocialMedia from "../../images/interpretation_of_social_media_in_CoP.png"
 
 const Services = forwardRef(({ button, buttons }, ref) => {
   return (
@@ -11,9 +12,6 @@ const Services = forwardRef(({ button, buttons }, ref) => {
           A new human right has born: <br></br>It{"'"}s all about standing equal
           on peace {"&"} trust making
         </h2>
-        <div className="peacemaking-is-our-right-too">
-          <img src="" alt="peacemaking is our right too.."></img>
-        </div>
         <p>
           "Everyone is free to be proactive, claim their equality and free will
           to act on peace and trust making; and be legitimate co-signer and
@@ -30,19 +28,24 @@ const Services = forwardRef(({ button, buttons }, ref) => {
         </p>
         <p>
          
-          <strong>
+          {/* <strong>
             {" "}
             Hey there, Peacemaker!
             <br></br>
             <br></br>
             Start, a World Peace ~ express yourself!
-          </strong>
+          </strong> */}
           <br></br>
+          <div className="peacemaking-is-our-right-too">
+            <img src={PeacemakingOurRightToo} 
+            width="100%"
+            alt="peacemaking is our right too.."></img>
+          </div>
           <br></br>
           Feel welcomed {"&"} invited to bring your perspective, empowered and
           empowering being, those co-existing communities of your choice: :{" "}
         </p>
-        <br></br>
+        
         <br></br> {buttons[0]} {buttons[1]}
         <br></br> <br></br> @ {buttons[2]} <br></br>
         <br></br>@ {buttons[3]}
@@ -110,7 +113,7 @@ const Services = forwardRef(({ button, buttons }, ref) => {
           <br></br>
           <br></br>
           <img
-            src={SocialInterpretations}
+            src={InterpretationofSocialMedia}
             width={"90%"}
             alt="reinterpretation of social media in peacemaking context"
           ></img>
