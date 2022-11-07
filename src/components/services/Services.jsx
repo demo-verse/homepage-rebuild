@@ -38,7 +38,7 @@ const Services = forwardRef(({ button, buttons }, ref) => {
           <br></br>
           <div className="peacemaking-is-our-right-too">
             <img src={PeacemakingOurRightToo} 
-            width="100%"
+            width="60%"
             alt="peacemaking is our right too.."></img>
           </div>
           <br></br>
