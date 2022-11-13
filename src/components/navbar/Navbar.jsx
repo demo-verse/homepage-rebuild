@@ -52,14 +52,17 @@ function Navbar({ button }) {
           <a href="https://miro.com/app/board/uXjVOX94E5k=/?share_link_id=267054985896" target={"_blank"} rel="noreferrer">A flow of peace</a>
           </li> 
           <li>
+          <a href="https://expressionsofdemand.org" target={"_blank"} rel="noreferrer">expressions of demand</a>
+          </li> 
+          <li>
           {/* <a href="" target={"_blank"} rel="noreferrer">Circles of Peace +Impact</a> */}
           <a
-            href="https://astounding-sprite-02f5bb.netlify.app/"
+            href="https://circlesforimpact.org"
             target={"_blank"}
             rel="noreferrer"
           >
             <Button
-              text1="Circles of Peace"
+              text1="Circles for +Impact"
               text2=""
               // onClick={() => alert("You clicked button")}
             />

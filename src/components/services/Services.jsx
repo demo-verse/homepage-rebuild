@@ -124,7 +124,7 @@ const Services = forwardRef(({ button, buttons }, ref) => {
           acknowledgements and reflections.
           <br></br>
           <br></br>
-          Visiting Circles of Peace{" "}
+          Visiting Circles for +Impact{" "}
           <a
             href="https://github.com/demo-verse/circles-of-peace"
             target={"_blank"}
@@ -144,7 +144,7 @@ const Services = forwardRef(({ button, buttons }, ref) => {
         <br></br> <br></br>
         <div className="enter-circles-of-peace">
           <a
-            href="https://astounding-sprite-02f5bb.netlify.app/"
+            href="https://circlesforimpact.org"
             target={"_blank"}
             rel="noreferrer"
           >
@@ -177,10 +177,9 @@ const Services = forwardRef(({ button, buttons }, ref) => {
           ))}
         </div> */}
         <p>
-          <br></br> The entry to Circles of Peace, is free and will not be
-          moderated or require a registration flow. However, it will be acting
-          as a gateway to Circles for Impact, and yes, the least yet deliberate
-          effort spent for peace, is a starter point for +impact collaborations.
+          <br></br> The entry to Circles for +Impact, is free and will not be
+          moderated or require a registration flow. The least yet deliberate
+          effort spent for peace and trust making there, will be a starter point for +impact collaborations.
         </p>
         <br></br>
         <p>
@@ -218,8 +217,7 @@ const Services = forwardRef(({ button, buttons }, ref) => {
             rel="noreferrer"
           >
             #17
-          </a>{" "}
-          before invited to the Circles for Impact.
+          </a>.{" "}
           <br></br> <br></br>
           Those goals are basically around equality, peace, and collaboration
           for the common goals.
@@ -233,7 +231,7 @@ const Services = forwardRef(({ button, buttons }, ref) => {
           official entitlements on signing those peace treaties between
           countries, is a balancer action.
           <br></br>
-          <br></br>How so?
+          <br></br><strong> How so?</strong>
           <br></br>
           <br></br>
           As of 19 September 2022,{" "}
@@ -258,14 +256,14 @@ const Services = forwardRef(({ button, buttons }, ref) => {
           women's participation for sealing those treaties by decentralization
           of diplomacy, with our commitment to provide equality in peacemaking.
           <br></br> <br></br>
-          So that goes almost 50%/50% between genders with that egalitarian way,
-          without having to wait more years on women's inclusion as them,
+          So that goes almost 50%/50% between genders as an outcome of this egalitarian approach,
+          without having to wait more decades on women's inclusion as them,
           official entitled to be the signers of a World Peace treaty.
           <br></br>
           {/* <img src="https://i.imgur.com/oB7SZAs.png" width={"100%"} alt="mobile" />
           <br></br> <br></br> */}
           <br></br>
-          <p>
+          {/* <p>
             Recently we have given a try to a cool virtual environment setting
             for Circles for Impact @ welo.space, and is recorded when we were
             co-imagining how impact generation would be, while experiencing that
@@ -273,7 +271,7 @@ const Services = forwardRef(({ button, buttons }, ref) => {
             and resolutions on such spaces would be happening is always open for
             co-imagination, let's bring in the best communication, coordination
             and collaboration tools out there.
-          </p>
+          </p> */}
           {/* <br></br>
           <br></br>
           <iframe
