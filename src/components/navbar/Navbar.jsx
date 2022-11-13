@@ -52,7 +52,7 @@ function Navbar({ button }) {
           <a href="https://miro.com/app/board/uXjVOX94E5k=/?share_link_id=267054985896" target={"_blank"} rel="noreferrer">A flow of peace</a>
           </li> 
           <li>
-          <a href="https://expressionsofdemand.org" target={"_blank"} rel="noreferrer">expressions of demand</a>
+          <a href="https://expressionsofdemand.org" target={"_blank"} rel="noreferrer">proactive electorship</a>
           </li> 
           <li>
           {/* <a href="" target={"_blank"} rel="noreferrer">Circles of Peace +Impact</a> */}
